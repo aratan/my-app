@@ -9,12 +9,41 @@
           const L = await import('leaflet');
           await import('leaflet/dist/leaflet.css');
 
-          map = L.map('map').setView([40.29753, -3.83810], 18);
-          L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-              attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-          }).addTo(map);
+          if (navigator.geolocation) {
+              navigator.geolocation.getCurrentPosition(position => {
+                  const { latitude, longitude } = position.coords;
+
+                  map = L.map('map').setView([latitude, longitude], 18);
+                  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                      attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+                  }).addTo(map);
+
+                  L.marker([latitude, longitude]).addTo(map)
+                      .bindPopup('You are here')
+                      .openPopup();
+              }, showError);
+          } else {
+              alert("Geolocation is not supported by this browser.");
+          }
       }
   });
+
+  function showError(error) {
+      switch (error.code) {
+          case error.PERMISSION_DENIED:
+              alert("User denied the request for Geolocation.");
+              break;
+          case error.POSITION_UNAVAILABLE:
+              alert("Location information is unavailable.");
+              break;
+          case error.TIMEOUT:
+              alert("The request to get user location timed out.");
+              break;
+          case error.UNKNOWN_ERROR:
+              alert("An unknown error occurred.");
+              break;
+      }
+  }
 </script>
 
 <style>
