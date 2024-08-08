@@ -10,10 +10,17 @@
           await import('leaflet/dist/leaflet.css');
 
           if (navigator.geolocation) {
+              const options = {
+                  enableHighAccuracy: true,
+                  timeout: 5000,
+                  maximumAge: 0
+              };
+
               navigator.geolocation.getCurrentPosition(position => {
                   const { latitude, longitude } = position.coords;
 
                   map = L.map('map').setView([latitude, longitude], 18);
+                  console.log(latitude, longitude )
                   L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                       attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
                   }).addTo(map);
@@ -21,7 +28,7 @@
                   L.marker([latitude, longitude]).addTo(map)
                       .bindPopup('You are here')
                       .openPopup();
-              }, showError);
+              }, showError, options);
           } else {
               alert("Geolocation is not supported by this browser.");
           }
