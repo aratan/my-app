@@ -3,7 +3,7 @@
 	import axios from 'axios';
   
 	let anuncios = [];
-	const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE3MjM4OTAwOTMsInVzZXIiOiJ2aWN0b3IifQ.Hs5Z8w8HRXJvFR_1GfLE0zh5SVTb47128tvKKTaf8z0";
+	const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE3MjM4OTM5NzUsInVzZXIiOiJ2aWN0b3IifQ.B5JahZOVYs_pnUNXAnnV-fjQMh93Ncv6kcZn2upTx4U";
   
 	onMount(async () => {
 		try {
@@ -45,14 +45,23 @@
 						<strong>{anuncio.content?.title || 'Sin título'}</strong>
 					</div>
 					<div class="card-body">
-						{#if anuncio.from?.photo}
-							
-							<img src="{anuncio.from.photo}" alt="background image" width="30" height="30"/>
+						
+						{#if anuncio.from?.photo != "your_photo_url"}
+						<img src="{anuncio.from.photo}" alt="" width="30" height="30" />
+						{:else}
+						<img src="https://e7.pngegg.com/pngimages/327/399/png-clipart-proposal-promotion-price-sales-service-ofert-love-text-thumbnail.png" alt="" width="30" height="30" />
 						{/if}
 						
-						{#if anuncio.from?.username}
-							<p style="color: green;">{anuncio.from.username}</p>
+						
+						{#if anuncio.from?.username != "your_username"}
+						  <p style="color: black;">{anuncio.from.username}</p>
+						{:else}
+						  <p style="color: black;">Usuario</p>
 						{/if}
+
+
+						
+						
 						
 						{#if anuncio.content?.subtitle}
 							<p style="color: green;">{anuncio.content.subtitle}</p>
