@@ -3,7 +3,7 @@
 	import axios from 'axios';
   
 	let anuncios = [];
-	const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE3MjMyMzk3NjQsInVzZXIiOiJ0dV91c3VhcmlvIn0.qnBq6isuk8jm8sp_wb-htX0H7Fvyz-aXR2c0U5yKs9Q";
+	const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JpemVkIjp0cnVlLCJleHAiOjE3MjM4OTAwOTMsInVzZXIiOiJ2aWN0b3IifQ.Hs5Z8w8HRXJvFR_1GfLE0zh5SVTb47128tvKKTaf8z0";
   
 	onMount(async () => {
 		try {
@@ -46,7 +46,8 @@
 					</div>
 					<div class="card-body">
 						{#if anuncio.from?.photo}
-							<p >{anuncio.from.photo} </p>
+							
+							<img src="{anuncio.from.photo}" alt="background image" width="30" height="30"/>
 						{/if}
 						
 						{#if anuncio.from?.username}
