@@ -1,5 +1,6 @@
 <script>
 	import Map from './Map.svelte';
+	import Buscador from './Buscador.svelte'; // Importar el componente Buscador
   </script>
   
   <svelte:head>
@@ -12,12 +13,14 @@
 	  <span class="welcome"></span>
 	  cercanas<br />5 km
 	</h1>
-	
+  
 	<Map />
-	
+  
 	<h2>
 	  Parroquias <strong>Catolicas</strong>
 	</h2>
+	<!-- Usar el componente Buscador -->
+	<Buscador />
   </section>
   
   <style>
@@ -40,7 +43,5 @@
 	  height: 0;
 	  padding: 0 0 calc(100% * 495 / 2048) 0;
 	}
-  
-	
   </style>
   
