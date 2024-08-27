@@ -1,0 +1,4386 @@
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es 3666-5C7E
+C:.
+¦   .gitignore
+¦   .npmrc
+¦   a.txt
+¦   jsconfig.json
+¦   package-lock.json
+¦   package.json
+¦   README.md
+¦   svelte.config.js
+¦   vite.config.js
+¦   
++---.svelte-kit
+¦   ¦   ambient.d.ts
+¦   ¦   non-ambient.d.ts
+¦   ¦   tsconfig.json
+¦   ¦   
+¦   +---generated
+¦   ¦   ¦   root.svelte
+¦   ¦   ¦   
+¦   ¦   +---client
+¦   ¦   ¦   ¦   app.js
+¦   ¦   ¦   ¦   matchers.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---nodes
+¦   ¦   ¦           0.js
+¦   ¦   ¦           1.js
+¦   ¦   ¦           2.js
+¦   ¦   ¦           3.js
+¦   ¦   ¦           4.js
+¦   ¦   ¦           5.js
+¦   ¦   ¦           6.js
+¦   ¦   ¦           
+¦   ¦   +---client-optimized
+¦   ¦   ¦   ¦   app.js
+¦   ¦   ¦   ¦   matchers.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---nodes
+¦   ¦   ¦           0.js
+¦   ¦   ¦           1.js
+¦   ¦   ¦           2.js
+¦   ¦   ¦           3.js
+¦   ¦   ¦           4.js
+¦   ¦   ¦           
+¦   ¦   +---server
+¦   ¦           internal.js
+¦   ¦           
+¦   +---output
+¦   ¦   +---client
+¦   ¦   ¦   ¦   favicon.png
+¦   ¦   ¦   ¦   robots.txt
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---.vite
+¦   ¦   ¦   ¦       manifest.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---_app
+¦   ¦   ¦       ¦   version.json
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---immutable
+¦   ¦   ¦           +---assets
+¦   ¦   ¦           ¦       0.BPhzVHd6.css
+¦   ¦   ¦           ¦       2.CEp0owx0.css
+¦   ¦   ¦           ¦       fira-mono-cyrillic-400-normal.36-45Uyg.woff2
+¦   ¦   ¦           ¦       fira-mono-cyrillic-400-normal.Dq7SlH2J.woff
+¦   ¦   ¦           ¦       fira-mono-cyrillic-ext-400-normal.0xXfcOOq.woff
+¦   ¦   ¦           ¦       fira-mono-cyrillic-ext-400-normal.B04YIrm4.woff2
+¦   ¦   ¦           ¦       fira-mono-greek-400-normal.C3zng6O6.woff2
+¦   ¦   ¦           ¦       fira-mono-greek-400-normal.DUeQbRz0.woff
+¦   ¦   ¦           ¦       fira-mono-greek-ext-400-normal.BEhC8Nsh.woff
+¦   ¦   ¦           ¦       fira-mono-greek-ext-400-normal.CsqI23CO.woff2
+¦   ¦   ¦           ¦       fira-mono-latin-400-normal.DKjLVgQi.woff2
+¦   ¦   ¦           ¦       fira-mono-latin-400-normal.g4W12wf9.woff
+¦   ¦   ¦           ¦       fira-mono-latin-ext-400-normal.D6XfiR-_.woff2
+¦   ¦   ¦           ¦       fira-mono-latin-ext-400-normal.lWlD_NAB.woff
+¦   ¦   ¦           ¦       leaflet.HupOsEJb.css
+¦   ¦   ¦           ¦       _layout.BPsNNkl5.css
+¦   ¦   ¦           ¦       _page.CEp0owx0.css
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---chunks
+¦   ¦   ¦           ¦       axios.CHDNfaKf.js
+¦   ¦   ¦           ¦       axios.CHDNfaKf.js.map
+¦   ¦   ¦           ¦       entry.ClOZbdM8.js
+¦   ¦   ¦           ¦       entry.ClOZbdM8.js.map
+¦   ¦   ¦           ¦       index.BLBE7u9A.js
+¦   ¦   ¦           ¦       index.BLBE7u9A.js.map
+¦   ¦   ¦           ¦       index.R8ovVqwX.js
+¦   ¦   ¦           ¦       index.R8ovVqwX.js.map
+¦   ¦   ¦           ¦       leaflet-src.DTmlu4rB.js
+¦   ¦   ¦           ¦       leaflet-src.DTmlu4rB.js.map
+¦   ¦   ¦           ¦       preload-helper.D6kgxu3v.js
+¦   ¦   ¦           ¦       preload-helper.D6kgxu3v.js.map
+¦   ¦   ¦           ¦       scheduler.Dyo8n_HX.js
+¦   ¦   ¦           ¦       scheduler.Dyo8n_HX.js.map
+¦   ¦   ¦           ¦       stores.CtSJJgAk.js
+¦   ¦   ¦           ¦       stores.CtSJJgAk.js.map
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---entry
+¦   ¦   ¦           ¦       app.CSMBGbC4.js
+¦   ¦   ¦           ¦       app.CSMBGbC4.js.map
+¦   ¦   ¦           ¦       start.Cydl7uDT.js
+¦   ¦   ¦           ¦       start.Cydl7uDT.js.map
+¦   ¦   ¦           ¦       
+¦   ¦   ¦           +---nodes
+¦   ¦   ¦                   0.BCxn3rMX.js
+¦   ¦   ¦                   0.BCxn3rMX.js.map
+¦   ¦   ¦                   1.GpQ_xpRb.js
+¦   ¦   ¦                   1.GpQ_xpRb.js.map
+¦   ¦   ¦                   2.BrO00pz5.js
+¦   ¦   ¦                   2.BrO00pz5.js.map
+¦   ¦   ¦                   3.CNTDXI1_.js
+¦   ¦   ¦                   3.CNTDXI1_.js.map
+¦   ¦   ¦                   4.uiL877If.js
+¦   ¦   ¦                   4.uiL877If.js.map
+¦   ¦   ¦                   
+¦   ¦   +---prerendered
+¦   ¦   ¦   +---pages
+¦   ¦   ¦           about.html
+¦   ¦   ¦           index.html
+¦   ¦   ¦           sverdle.html
+¦   ¦   ¦           
+¦   ¦   +---server
+¦   ¦       ¦   index.js
+¦   ¦       ¦   index.js.map
+¦   ¦       ¦   internal.js
+¦   ¦       ¦   internal.js.map
+¦   ¦       ¦   manifest-full.js
+¦   ¦       ¦   manifest.js
+¦   ¦       ¦   
+¦   ¦       +---.vite
+¦   ¦       ¦       manifest.json
+¦   ¦       ¦       
+¦   ¦       +---chunks
+¦   ¦       ¦       exports.js
+¦   ¦       ¦       exports.js.map
+¦   ¦       ¦       index.js
+¦   ¦       ¦       index.js.map
+¦   ¦       ¦       internal.js
+¦   ¦       ¦       internal.js.map
+¦   ¦       ¦       prod-ssr.js
+¦   ¦       ¦       prod-ssr.js.map
+¦   ¦       ¦       ssr.js
+¦   ¦       ¦       ssr.js.map
+¦   ¦       ¦       stores.js
+¦   ¦       ¦       stores.js.map
+¦   ¦       ¦       
+¦   ¦       +---entries
+¦   ¦       ¦   +---fallbacks
+¦   ¦       ¦   ¦       error.svelte.js
+¦   ¦       ¦   ¦       error.svelte.js.map
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---pages
+¦   ¦       ¦       ¦   _layout.svelte.js
+¦   ¦       ¦       ¦   _layout.svelte.js.map
+¦   ¦       ¦       ¦   _page.js
+¦   ¦       ¦       ¦   _page.js.map
+¦   ¦       ¦       ¦   _page.svelte.js
+¦   ¦       ¦       ¦   _page.svelte.js.map
+¦   ¦       ¦       ¦   
+¦   ¦       ¦       +---about
+¦   ¦       ¦       ¦       _page.js
+¦   ¦       ¦       ¦       _page.js.map
+¦   ¦       ¦       ¦       _page.svelte.js
+¦   ¦       ¦       ¦       _page.svelte.js.map
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---sverdle
+¦   ¦       ¦               _page.js
+¦   ¦       ¦               _page.js.map
+¦   ¦       ¦               _page.svelte.js
+¦   ¦       ¦               _page.svelte.js.map
+¦   ¦       ¦               
+¦   ¦       +---nodes
+¦   ¦       ¦       0.js
+¦   ¦       ¦       1.js
+¦   ¦       ¦       2.js
+¦   ¦       ¦       3.js
+¦   ¦       ¦       4.js
+¦   ¦       ¦       
+¦   ¦       +---stylesheets
+¦   ¦       +---_app
+¦   ¦           +---immutable
+¦   ¦               +---assets
+¦   ¦                       fira-mono-cyrillic-400-normal.36-45Uyg.woff2
+¦   ¦                       fira-mono-cyrillic-400-normal.Dq7SlH2J.woff
+¦   ¦                       fira-mono-cyrillic-ext-400-normal.0xXfcOOq.woff
+¦   ¦                       fira-mono-cyrillic-ext-400-normal.B04YIrm4.woff2
+¦   ¦                       fira-mono-greek-400-normal.C3zng6O6.woff2
+¦   ¦                       fira-mono-greek-400-normal.DUeQbRz0.woff
+¦   ¦                       fira-mono-greek-ext-400-normal.BEhC8Nsh.woff
+¦   ¦                       fira-mono-greek-ext-400-normal.CsqI23CO.woff2
+¦   ¦                       fira-mono-latin-400-normal.DKjLVgQi.woff2
+¦   ¦                       fira-mono-latin-400-normal.g4W12wf9.woff
+¦   ¦                       fira-mono-latin-ext-400-normal.D6XfiR-_.woff2
+¦   ¦                       fira-mono-latin-ext-400-normal.lWlD_NAB.woff
+¦   ¦                       _layout.BPsNNkl5.css
+¦   ¦                       _page.CEp0owx0.css
+¦   ¦                       
+¦   +---types
+¦       ¦   route_meta_data.json
+¦       ¦   
+¦       +---src
+¦           +---routes
+¦               ¦   $types.d.ts
+¦               ¦   
+¦               +---about
+¦               ¦       $types.d.ts
+¦               ¦       
+¦               +---sverdle
+¦               ¦   ¦   $types.d.ts
+¦               ¦   ¦   
+¦               ¦   +---how-to-play
+¦               +---tablon
+¦                       $types.d.ts
+¦                       
++---node_modules
+¦   ¦   .package-lock.json
+¦   ¦   
+¦   +---.bin
+¦   ¦       acorn
+¦   ¦       acorn.cmd
+¦   ¦       acorn.ps1
+¦   ¦       esbuild
+¦   ¦       esbuild.cmd
+¦   ¦       esbuild.ps1
+¦   ¦       mkdirp
+¦   ¦       mkdirp.cmd
+¦   ¦       mkdirp.ps1
+¦   ¦       nanoid
+¦   ¦       nanoid.cmd
+¦   ¦       nanoid.ps1
+¦   ¦       polyline
+¦   ¦       polyline.cmd
+¦   ¦       polyline.ps1
+¦   ¦       rimraf
+¦   ¦       rimraf.cmd
+¦   ¦       rimraf.ps1
+¦   ¦       rollup
+¦   ¦       rollup.cmd
+¦   ¦       rollup.ps1
+¦   ¦       sorcery
+¦   ¦       sorcery.cmd
+¦   ¦       sorcery.ps1
+¦   ¦       svelte-check
+¦   ¦       svelte-check.cmd
+¦   ¦       svelte-check.ps1
+¦   ¦       svelte-kit
+¦   ¦       svelte-kit.cmd
+¦   ¦       svelte-kit.ps1
+¦   ¦       tsc
+¦   ¦       tsc.cmd
+¦   ¦       tsc.ps1
+¦   ¦       tsserver
+¦   ¦       tsserver.cmd
+¦   ¦       tsserver.ps1
+¦   ¦       vite
+¦   ¦       vite.cmd
+¦   ¦       vite.ps1
+¦   ¦       
+¦   +---.cache
+¦   ¦   +---@babel
+¦   ¦       +---register
+¦   ¦               .babel.7.5.5.development.json
+¦   ¦               
+¦   +---.vite
+¦   ¦   ¦   _svelte_metadata.json
+¦   ¦   ¦   
+¦   ¦   +---deps
+¦   ¦           chunk-3XCKNI7N.js
+¦   ¦           chunk-3XCKNI7N.js.map
+¦   ¦           chunk-EKIRE5YT.js
+¦   ¦           chunk-EKIRE5YT.js.map
+¦   ¦           chunk-ETWSND26.js
+¦   ¦           chunk-ETWSND26.js.map
+¦   ¦           chunk-NIQFKHIO.js
+¦   ¦           chunk-NIQFKHIO.js.map
+¦   ¦           chunk-V6TY7KAL.js
+¦   ¦           chunk-V6TY7KAL.js.map
+¦   ¦           devalue.js
+¦   ¦           devalue.js.map
+¦   ¦           package.json
+¦   ¦           svelte.js
+¦   ¦           svelte.js.map
+¦   ¦           svelte_animate.js
+¦   ¦           svelte_animate.js.map
+¦   ¦           svelte_easing.js
+¦   ¦           svelte_easing.js.map
+¦   ¦           svelte_internal.js
+¦   ¦           svelte_internal.js.map
+¦   ¦           svelte_internal_disclose-version.js
+¦   ¦           svelte_internal_disclose-version.js.map
+¦   ¦           svelte_motion.js
+¦   ¦           svelte_motion.js.map
+¦   ¦           svelte_store.js
+¦   ¦           svelte_store.js.map
+¦   ¦           svelte_transition.js
+¦   ¦           svelte_transition.js.map
+¦   ¦           _metadata.json
+¦   ¦           
+¦   +---@ampproject
+¦   ¦   +---remapping
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦           ¦   remapping.mjs
+¦   ¦           ¦   remapping.mjs.map
+¦   ¦           ¦   remapping.umd.js
+¦   ¦           ¦   remapping.umd.js.map
+¦   ¦           ¦   
+¦   ¦           +---types
+¦   ¦                   build-source-map-tree.d.ts
+¦   ¦                   remapping.d.ts
+¦   ¦                   source-map-tree.d.ts
+¦   ¦                   source-map.d.ts
+¦   ¦                   types.d.ts
+¦   ¦                   
+¦   +---@esbuild
+¦   ¦   +---win32-x64
+¦   ¦           esbuild.exe
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           
+¦   +---@fontsource
+¦   ¦   +---fira-mono
+¦   ¦       ¦   400.css
+¦   ¦       ¦   500.css
+¦   ¦       ¦   700.css
+¦   ¦       ¦   CHANGELOG.md
+¦   ¦       ¦   cyrillic-400.css
+¦   ¦       ¦   cyrillic-500.css
+¦   ¦       ¦   cyrillic-700.css
+¦   ¦       ¦   cyrillic-ext-400.css
+¦   ¦       ¦   cyrillic-ext-500.css
+¦   ¦       ¦   cyrillic-ext-700.css
+¦   ¦       ¦   cyrillic-ext.css
+¦   ¦       ¦   cyrillic.css
+¦   ¦       ¦   greek-400.css
+¦   ¦       ¦   greek-500.css
+¦   ¦       ¦   greek-700.css
+¦   ¦       ¦   greek-ext-400.css
+¦   ¦       ¦   greek-ext-500.css
+¦   ¦       ¦   greek-ext-700.css
+¦   ¦       ¦   greek-ext.css
+¦   ¦       ¦   greek.css
+¦   ¦       ¦   index.css
+¦   ¦       ¦   latin-400.css
+¦   ¦       ¦   latin-500.css
+¦   ¦       ¦   latin-700.css
+¦   ¦       ¦   latin-ext-400.css
+¦   ¦       ¦   latin-ext-500.css
+¦   ¦       ¦   latin-ext-700.css
+¦   ¦       ¦   latin-ext.css
+¦   ¦       ¦   latin.css
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   metadata.json
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   unicode.json
+¦   ¦       ¦   
+¦   ¦       +---files
+¦   ¦       ¦       fira-mono-cyrillic-400-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-400-normal.woff2
+¦   ¦       ¦       fira-mono-cyrillic-500-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-500-normal.woff2
+¦   ¦       ¦       fira-mono-cyrillic-700-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-700-normal.woff2
+¦   ¦       ¦       fira-mono-cyrillic-ext-400-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-ext-400-normal.woff2
+¦   ¦       ¦       fira-mono-cyrillic-ext-500-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-ext-500-normal.woff2
+¦   ¦       ¦       fira-mono-cyrillic-ext-700-normal.woff
+¦   ¦       ¦       fira-mono-cyrillic-ext-700-normal.woff2
+¦   ¦       ¦       fira-mono-greek-400-normal.woff
+¦   ¦       ¦       fira-mono-greek-400-normal.woff2
+¦   ¦       ¦       fira-mono-greek-500-normal.woff
+¦   ¦       ¦       fira-mono-greek-500-normal.woff2
+¦   ¦       ¦       fira-mono-greek-700-normal.woff
+¦   ¦       ¦       fira-mono-greek-700-normal.woff2
+¦   ¦       ¦       fira-mono-greek-ext-400-normal.woff
+¦   ¦       ¦       fira-mono-greek-ext-400-normal.woff2
+¦   ¦       ¦       fira-mono-greek-ext-500-normal.woff
+¦   ¦       ¦       fira-mono-greek-ext-500-normal.woff2
+¦   ¦       ¦       fira-mono-greek-ext-700-normal.woff
+¦   ¦       ¦       fira-mono-greek-ext-700-normal.woff2
+¦   ¦       ¦       fira-mono-latin-400-normal.woff
+¦   ¦       ¦       fira-mono-latin-400-normal.woff2
+¦   ¦       ¦       fira-mono-latin-500-normal.woff
+¦   ¦       ¦       fira-mono-latin-500-normal.woff2
+¦   ¦       ¦       fira-mono-latin-700-normal.woff
+¦   ¦       ¦       fira-mono-latin-700-normal.woff2
+¦   ¦       ¦       fira-mono-latin-ext-400-normal.woff
+¦   ¦       ¦       fira-mono-latin-ext-400-normal.woff2
+¦   ¦       ¦       fira-mono-latin-ext-500-normal.woff
+¦   ¦       ¦       fira-mono-latin-ext-500-normal.woff2
+¦   ¦       ¦       fira-mono-latin-ext-700-normal.woff
+¦   ¦       ¦       fira-mono-latin-ext-700-normal.woff2
+¦   ¦       ¦       
+¦   ¦       +---scss
+¦   ¦               metadata.scss
+¦   ¦               mixins.scss
+¦   ¦               
+¦   +---@jridgewell
+¦   ¦   +---gen-mapping
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       ¦   gen-mapping.mjs
+¦   ¦   ¦       ¦   gen-mapping.mjs.map
+¦   ¦   ¦       ¦   gen-mapping.umd.js
+¦   ¦   ¦       ¦   gen-mapping.umd.js.map
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---types
+¦   ¦   ¦               gen-mapping.d.ts
+¦   ¦   ¦               sourcemap-segment.d.ts
+¦   ¦   ¦               types.d.ts
+¦   ¦   ¦               
+¦   ¦   +---resolve-uri
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       ¦   resolve-uri.mjs
+¦   ¦   ¦       ¦   resolve-uri.mjs.map
+¦   ¦   ¦       ¦   resolve-uri.umd.js
+¦   ¦   ¦       ¦   resolve-uri.umd.js.map
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---types
+¦   ¦   ¦               resolve-uri.d.ts
+¦   ¦   ¦               
+¦   ¦   +---set-array
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       ¦   set-array.mjs
+¦   ¦   ¦       ¦   set-array.mjs.map
+¦   ¦   ¦       ¦   set-array.umd.js
+¦   ¦   ¦       ¦   set-array.umd.js.map
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---types
+¦   ¦   ¦               set-array.d.ts
+¦   ¦   ¦               
+¦   ¦   +---sourcemap-codec
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---dist
+¦   ¦   ¦       ¦   sourcemap-codec.mjs
+¦   ¦   ¦       ¦   sourcemap-codec.mjs.map
+¦   ¦   ¦       ¦   sourcemap-codec.umd.js
+¦   ¦   ¦       ¦   sourcemap-codec.umd.js.map
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---types
+¦   ¦   ¦               scopes.d.ts
+¦   ¦   ¦               sourcemap-codec.d.ts
+¦   ¦   ¦               strings.d.ts
+¦   ¦   ¦               vlq.d.ts
+¦   ¦   ¦               
+¦   ¦   +---trace-mapping
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦           ¦   trace-mapping.mjs
+¦   ¦           ¦   trace-mapping.mjs.map
+¦   ¦           ¦   trace-mapping.umd.js
+¦   ¦           ¦   trace-mapping.umd.js.map
+¦   ¦           ¦   
+¦   ¦           +---types
+¦   ¦                   any-map.d.ts
+¦   ¦                   binary-search.d.ts
+¦   ¦                   by-source.d.ts
+¦   ¦                   resolve.d.ts
+¦   ¦                   sort.d.ts
+¦   ¦                   sourcemap-segment.d.ts
+¦   ¦                   strip-filename.d.ts
+¦   ¦                   trace-mapping.d.ts
+¦   ¦                   types.d.ts
+¦   ¦                   
+¦   +---@mapbox
+¦   ¦   +---corslite
+¦   ¦   ¦       .travis.yml
+¦   ¦   ¦       .zuul.yml
+¦   ¦   ¦       corslite.js
+¦   ¦   ¦       LICENSE
+¦   ¦   ¦       package.json
+¦   ¦   ¦       README.md
+¦   ¦   ¦       server.js
+¦   ¦   ¦       test.js
+¦   ¦   ¦       
+¦   ¦   +---polyline
+¦   ¦       ¦   .eslintrc
+¦   ¦       ¦   .npmignore
+¦   ¦       ¦   .travis.yml
+¦   ¦       ¦   API.md
+¦   ¦       ¦   CHANGELOG.md
+¦   ¦       ¦   index.js
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   Makefile
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---bin
+¦   ¦       ¦       polyline.bin.js
+¦   ¦       ¦       
+¦   ¦       +---src
+¦   ¦       ¦       polyline.js
+¦   ¦       ¦       
+¦   ¦       +---test
+¦   ¦               polyline.test.js
+¦   ¦               
+¦   +---@neoconfetti
+¦   ¦   +---svelte
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---dist
+¦   ¦           ¦   index.d.ts
+¦   ¦           ¦   index.js
+¦   ¦           ¦   
+¦   ¦           +---min
+¦   ¦                   index.js
+¦   ¦                   
+¦   +---@polka
+¦   ¦   +---url
+¦   ¦           build.js
+¦   ¦           build.mjs
+¦   ¦           index.d.ts
+¦   ¦           package.json
+¦   ¦           readme.md
+¦   ¦           
+¦   +---@rollup
+¦   ¦   +---rollup-win32-x64-msvc
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           rollup.win32-x64-msvc.node
+¦   ¦           
+¦   +---@sveltejs
+¦   ¦   +---adapter-auto
+¦   ¦   ¦       adapters.js
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       index.js
+¦   ¦   ¦       LICENSE
+¦   ¦   ¦       package.json
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---kit
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   postinstall.js
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   svelte-kit.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   ¦   cli.js
+¦   ¦   ¦   ¦   ¦   constants.js
+¦   ¦   ¦   ¦   ¦   version.js
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---core
+¦   ¦   ¦   ¦   ¦   ¦   env.js
+¦   ¦   ¦   ¦   ¦   ¦   utils.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---adapt
+¦   ¦   ¦   ¦   ¦   ¦       builder.js
+¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦   ¦       default-error.html
+¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       options.js
+¦   ¦   ¦   ¦   ¦   ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---generate_manifest
+¦   ¦   ¦   ¦   ¦   ¦       find_server_assets.js
+¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---postbuild
+¦   ¦   ¦   ¦   ¦   ¦       analyse.js
+¦   ¦   ¦   ¦   ¦   ¦       crawl.js
+¦   ¦   ¦   ¦   ¦   ¦       entities.js
+¦   ¦   ¦   ¦   ¦   ¦       fallback.js
+¦   ¦   ¦   ¦   ¦   ¦       prerender.js
+¦   ¦   ¦   ¦   ¦   ¦       queue.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---sync
+¦   ¦   ¦   ¦   ¦       ¦   sync.js
+¦   ¦   ¦   ¦   ¦       ¦   ts.js
+¦   ¦   ¦   ¦   ¦       ¦   utils.js
+¦   ¦   ¦   ¦   ¦       ¦   write_ambient.js
+¦   ¦   ¦   ¦   ¦       ¦   write_client_manifest.js
+¦   ¦   ¦   ¦   ¦       ¦   write_non_ambient.js
+¦   ¦   ¦   ¦   ¦       ¦   write_root.js
+¦   ¦   ¦   ¦   ¦       ¦   write_server.js
+¦   ¦   ¦   ¦   ¦       ¦   write_tsconfig.js
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---create_manifest_data
+¦   ¦   ¦   ¦   ¦       ¦       conflict.js
+¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦       ¦       sort.js
+¦   ¦   ¦   ¦   ¦       ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---write_types
+¦   ¦   ¦   ¦   ¦               index.js
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---exports
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   public.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---hooks
+¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       sequence.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       polyfills.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---vite
+¦   ¦   ¦   ¦   ¦       ¦   index.js
+¦   ¦   ¦   ¦   ¦       ¦   module_ids.js
+¦   ¦   ¦   ¦   ¦       ¦   types.d.ts
+¦   ¦   ¦   ¦   ¦       ¦   utils.js
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---build
+¦   ¦   ¦   ¦   ¦       ¦       build_server.js
+¦   ¦   ¦   ¦   ¦       ¦       build_service_worker.js
+¦   ¦   ¦   ¦   ¦       ¦       utils.js
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---dev
+¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---graph_analysis
+¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦       ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦       ¦       utils.js
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---preview
+¦   ¦   ¦   ¦   ¦               index.js
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---runtime
+¦   ¦   ¦   ¦   ¦   ¦   control.js
+¦   ¦   ¦   ¦   ¦   ¦   hash.js
+¦   ¦   ¦   ¦   ¦   ¦   shared-server.js
+¦   ¦   ¦   ¦   ¦   ¦   shared.js
+¦   ¦   ¦   ¦   ¦   ¦   utils.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---app
+¦   ¦   ¦   ¦   ¦   ¦   ¦   forms.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   navigation.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   stores.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---environment
+¦   ¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   +---paths
+¦   ¦   ¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   ¦   +---server
+¦   ¦   ¦   ¦   ¦   ¦           index.js
+¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦   ¦   ¦       client.js
+¦   ¦   ¦   ¦   ¦   ¦       constants.js
+¦   ¦   ¦   ¦   ¦   ¦       entry.js
+¦   ¦   ¦   ¦   ¦   ¦       fetcher.js
+¦   ¦   ¦   ¦   ¦   ¦       parse.js
+¦   ¦   ¦   ¦   ¦   ¦       session-storage.js
+¦   ¦   ¦   ¦   ¦   ¦       types.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       utils.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---components
+¦   ¦   ¦   ¦   ¦   ¦       error.svelte
+¦   ¦   ¦   ¦   ¦   ¦       layout.svelte
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---env
+¦   ¦   ¦   ¦   ¦   ¦   +---dynamic
+¦   ¦   ¦   ¦   ¦   ¦           private.js
+¦   ¦   ¦   ¦   ¦   ¦           public.js
+¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   +---server
+¦   ¦   ¦   ¦   ¦       ¦   ambient.d.ts
+¦   ¦   ¦   ¦   ¦       ¦   cookie.js
+¦   ¦   ¦   ¦   ¦       ¦   endpoint.js
+¦   ¦   ¦   ¦   ¦       ¦   env_module.js
+¦   ¦   ¦   ¦   ¦       ¦   fetch.js
+¦   ¦   ¦   ¦   ¦       ¦   index.js
+¦   ¦   ¦   ¦   ¦       ¦   respond.js
+¦   ¦   ¦   ¦   ¦       ¦   utils.js
+¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦       +---data
+¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦       +---page
+¦   ¦   ¦   ¦   ¦               actions.js
+¦   ¦   ¦   ¦   ¦               crypto.js
+¦   ¦   ¦   ¦   ¦               csp.js
+¦   ¦   ¦   ¦   ¦               index.js
+¦   ¦   ¦   ¦   ¦               load_data.js
+¦   ¦   ¦   ¦   ¦               load_page_nodes.js
+¦   ¦   ¦   ¦   ¦               render.js
+¦   ¦   ¦   ¦   ¦               respond_with_error.js
+¦   ¦   ¦   ¦   ¦               serialize_data.js
+¦   ¦   ¦   ¦   ¦               types.d.ts
+¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   ¦   ¦   ambient-private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ambient.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   global-private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   internal.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---synthetic
+¦   ¦   ¦   ¦   ¦           $env+dynamic+private.md
+¦   ¦   ¦   ¦   ¦           $env+dynamic+public.md
+¦   ¦   ¦   ¦   ¦           $env+static+private.md
+¦   ¦   ¦   ¦   ¦           $env+static+public.md
+¦   ¦   ¦   ¦   ¦           $lib.md
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           array.js
+¦   ¦   ¦   ¦           env.js
+¦   ¦   ¦   ¦           error.js
+¦   ¦   ¦   ¦           escape.js
+¦   ¦   ¦   ¦           exports.js
+¦   ¦   ¦   ¦           features.js
+¦   ¦   ¦   ¦           filesystem.js
+¦   ¦   ¦   ¦           fork.js
+¦   ¦   ¦   ¦           functions.js
+¦   ¦   ¦   ¦           http.js
+¦   ¦   ¦   ¦           import.js
+¦   ¦   ¦   ¦           misc.js
+¦   ¦   ¦   ¦           options.js
+¦   ¦   ¦   ¦           route_config.js
+¦   ¦   ¦   ¦           routing.js
+¦   ¦   ¦   ¦           streaming.js
+¦   ¦   ¦   ¦           url.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---types
+¦   ¦   ¦           index.d.ts
+¦   ¦   ¦           index.d.ts.map
+¦   ¦   ¦           
+¦   ¦   +---vite-plugin-svelte
+¦   ¦   ¦   ¦   LICENSE
+¦   ¦   ¦   ¦   package.json
+¦   ¦   ¦   ¦   README.md
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---src
+¦   ¦   ¦   ¦   ¦   handle-hot-update.js
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   preprocess.js
+¦   ¦   ¦   ¦   ¦   public.d.ts
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---types
+¦   ¦   ¦   ¦   ¦       compile.d.ts
+¦   ¦   ¦   ¦   ¦       id.d.ts
+¦   ¦   ¦   ¦   ¦       log.d.ts
+¦   ¦   ¦   ¦   ¦       options.d.ts
+¦   ¦   ¦   ¦   ¦       plugin-api.d.ts
+¦   ¦   ¦   ¦   ¦       vite-plugin-svelte-stats.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           compile.js
+¦   ¦   ¦   ¦           constants.js
+¦   ¦   ¦   ¦           dependencies.js
+¦   ¦   ¦   ¦           error.js
+¦   ¦   ¦   ¦           esbuild.js
+¦   ¦   ¦   ¦           hash.js
+¦   ¦   ¦   ¦           id.js
+¦   ¦   ¦   ¦           load-raw.js
+¦   ¦   ¦   ¦           load-svelte-config.js
+¦   ¦   ¦   ¦           log.js
+¦   ¦   ¦   ¦           optimizer.js
+¦   ¦   ¦   ¦           options.js
+¦   ¦   ¦   ¦           preprocess.js
+¦   ¦   ¦   ¦           sourcemaps.js
+¦   ¦   ¦   ¦           svelte-version.js
+¦   ¦   ¦   ¦           vite-plugin-svelte-cache.js
+¦   ¦   ¦   ¦           vite-plugin-svelte-stats.js
+¦   ¦   ¦   ¦           watch.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---types
+¦   ¦   ¦           index.d.ts
+¦   ¦   ¦           index.d.ts.map
+¦   ¦   ¦           
+¦   ¦   +---vite-plugin-svelte-inspector
+¦   ¦       ¦   LICENSE
+¦   ¦       ¦   package.json
+¦   ¦       ¦   README.md
+¦   ¦       ¦   
+¦   ¦       +---src
+¦   ¦       ¦   ¦   debug.js
+¦   ¦       ¦   ¦   index.js
+¦   ¦       ¦   ¦   options.js
+¦   ¦       ¦   ¦   public.d.ts
+¦   ¦       ¦   ¦   utils.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---runtime
+¦   ¦       ¦           Inspector.svelte
+¦   ¦       ¦           load-inspector.js
+¦   ¦       ¦           
+¦   ¦       +---types
+¦   ¦               index.d.ts
+¦   ¦               index.d.ts.map
+¦   ¦               
+¦   +---@types
+¦   ¦   +---cookie
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       LICENSE
+¦   ¦   ¦       package.json
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---estree
+¦   ¦   ¦       flow.d.ts
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       LICENSE
+¦   ¦   ¦       package.json
+¦   ¦   ¦       README.md
+¦   ¦   ¦       
+¦   ¦   +---pug
+¦   ¦           index.d.ts
+¦   ¦           LICENSE
+¦   ¦           package.json
+¦   ¦           README.md
+¦   ¦           
+¦   +---acorn
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       acorn
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦           acorn.d.mts
+¦   ¦           acorn.d.ts
+¦   ¦           acorn.js
+¦   ¦           acorn.mjs
+¦   ¦           bin.js
+¦   ¦           
+¦   +---anymatch
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---aria-query
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦       ¦   ariaPropsMap.js
+¦   ¦       ¦   domMap.js
+¦   ¦       ¦   elementRoleMap.js
+¦   ¦       ¦   index.js
+¦   ¦       ¦   roleElementMap.js
+¦   ¦       ¦   rolesMap.js
+¦   ¦       ¦   
+¦   ¦       +---etc
+¦   ¦       ¦   +---roles
+¦   ¦       ¦       ¦   ariaAbstractRoles.js
+¦   ¦       ¦       ¦   ariaDpubRoles.js
+¦   ¦       ¦       ¦   ariaGraphicsRoles.js
+¦   ¦       ¦       ¦   ariaLiteralRoles.js
+¦   ¦       ¦       ¦   
+¦   ¦       ¦       +---abstract
+¦   ¦       ¦       ¦       commandRole.js
+¦   ¦       ¦       ¦       compositeRole.js
+¦   ¦       ¦       ¦       inputRole.js
+¦   ¦       ¦       ¦       landmarkRole.js
+¦   ¦       ¦       ¦       rangeRole.js
+¦   ¦       ¦       ¦       roletypeRole.js
+¦   ¦       ¦       ¦       sectionheadRole.js
+¦   ¦       ¦       ¦       sectionRole.js
+¦   ¦       ¦       ¦       selectRole.js
+¦   ¦       ¦       ¦       structureRole.js
+¦   ¦       ¦       ¦       widgetRole.js
+¦   ¦       ¦       ¦       windowRole.js
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---dpub
+¦   ¦       ¦       ¦       docAbstractRole.js
+¦   ¦       ¦       ¦       docAcknowledgmentsRole.js
+¦   ¦       ¦       ¦       docAfterwordRole.js
+¦   ¦       ¦       ¦       docAppendixRole.js
+¦   ¦       ¦       ¦       docBacklinkRole.js
+¦   ¦       ¦       ¦       docBiblioentryRole.js
+¦   ¦       ¦       ¦       docBibliographyRole.js
+¦   ¦       ¦       ¦       docBibliorefRole.js
+¦   ¦       ¦       ¦       docChapterRole.js
+¦   ¦       ¦       ¦       docColophonRole.js
+¦   ¦       ¦       ¦       docConclusionRole.js
+¦   ¦       ¦       ¦       docCoverRole.js
+¦   ¦       ¦       ¦       docCreditRole.js
+¦   ¦       ¦       ¦       docCreditsRole.js
+¦   ¦       ¦       ¦       docDedicationRole.js
+¦   ¦       ¦       ¦       docEndnoteRole.js
+¦   ¦       ¦       ¦       docEndnotesRole.js
+¦   ¦       ¦       ¦       docEpigraphRole.js
+¦   ¦       ¦       ¦       docEpilogueRole.js
+¦   ¦       ¦       ¦       docErrataRole.js
+¦   ¦       ¦       ¦       docExampleRole.js
+¦   ¦       ¦       ¦       docFootnoteRole.js
+¦   ¦       ¦       ¦       docForewordRole.js
+¦   ¦       ¦       ¦       docGlossaryRole.js
+¦   ¦       ¦       ¦       docGlossrefRole.js
+¦   ¦       ¦       ¦       docIndexRole.js
+¦   ¦       ¦       ¦       docIntroductionRole.js
+¦   ¦       ¦       ¦       docNoterefRole.js
+¦   ¦       ¦       ¦       docNoticeRole.js
+¦   ¦       ¦       ¦       docPagebreakRole.js
+¦   ¦       ¦       ¦       docPagelistRole.js
+¦   ¦       ¦       ¦       docPartRole.js
+¦   ¦       ¦       ¦       docPrefaceRole.js
+¦   ¦       ¦       ¦       docPrologueRole.js
+¦   ¦       ¦       ¦       docPullquoteRole.js
+¦   ¦       ¦       ¦       docQnaRole.js
+¦   ¦       ¦       ¦       docSubtitleRole.js
+¦   ¦       ¦       ¦       docTipRole.js
+¦   ¦       ¦       ¦       docTocRole.js
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---graphics
+¦   ¦       ¦       ¦       graphicsDocumentRole.js
+¦   ¦       ¦       ¦       graphicsObjectRole.js
+¦   ¦       ¦       ¦       graphicsSymbolRole.js
+¦   ¦       ¦       ¦       
+¦   ¦       ¦       +---literal
+¦   ¦       ¦               alertdialogRole.js
+¦   ¦       ¦               alertRole.js
+¦   ¦       ¦               applicationRole.js
+¦   ¦       ¦               articleRole.js
+¦   ¦       ¦               bannerRole.js
+¦   ¦       ¦               blockquoteRole.js
+¦   ¦       ¦               buttonRole.js
+¦   ¦       ¦               captionRole.js
+¦   ¦       ¦               cellRole.js
+¦   ¦       ¦               checkboxRole.js
+¦   ¦       ¦               codeRole.js
+¦   ¦       ¦               columnheaderRole.js
+¦   ¦       ¦               comboboxRole.js
+¦   ¦       ¦               complementaryRole.js
+¦   ¦       ¦               contentinfoRole.js
+¦   ¦       ¦               definitionRole.js
+¦   ¦       ¦               deletionRole.js
+¦   ¦       ¦               dialogRole.js
+¦   ¦       ¦               directoryRole.js
+¦   ¦       ¦               documentRole.js
+¦   ¦       ¦               emphasisRole.js
+¦   ¦       ¦               feedRole.js
+¦   ¦       ¦               figureRole.js
+¦   ¦       ¦               formRole.js
+¦   ¦       ¦               genericRole.js
+¦   ¦       ¦               graphicsDocumentRole.js
+¦   ¦       ¦               graphicsObjectRole.js
+¦   ¦       ¦               graphicsSymbolRole.js
+¦   ¦       ¦               gridcellRole.js
+¦   ¦       ¦               gridRole.js
+¦   ¦       ¦               groupRole.js
+¦   ¦       ¦               headingRole.js
+¦   ¦       ¦               imgRole.js
+¦   ¦       ¦               insertionRole.js
+¦   ¦       ¦               linkRole.js
+¦   ¦       ¦               listboxRole.js
+¦   ¦       ¦               listitemRole.js
+¦   ¦       ¦               listRole.js
+¦   ¦       ¦               logRole.js
+¦   ¦       ¦               mainRole.js
+¦   ¦       ¦               markRole.js
+¦   ¦       ¦               marqueeRole.js
+¦   ¦       ¦               mathRole.js
+¦   ¦       ¦               menubarRole.js
+¦   ¦       ¦               menuitemcheckboxRole.js
+¦   ¦       ¦               menuitemradioRole.js
+¦   ¦       ¦               menuitemRole.js
+¦   ¦       ¦               menuRole.js
+¦   ¦       ¦               meterRole.js
+¦   ¦       ¦               navigationRole.js
+¦   ¦       ¦               noneRole.js
+¦   ¦       ¦               noteRole.js
+¦   ¦       ¦               optionRole.js
+¦   ¦       ¦               paragraphRole.js
+¦   ¦       ¦               presentationRole.js
+¦   ¦       ¦               progressbarRole.js
+¦   ¦       ¦               radiogroupRole.js
+¦   ¦       ¦               radioRole.js
+¦   ¦       ¦               regionRole.js
+¦   ¦       ¦               rowgroupRole.js
+¦   ¦       ¦               rowheaderRole.js
+¦   ¦       ¦               rowRole.js
+¦   ¦       ¦               scrollbarRole.js
+¦   ¦       ¦               searchboxRole.js
+¦   ¦       ¦               searchRole.js
+¦   ¦       ¦               separatorRole.js
+¦   ¦       ¦               sliderRole.js
+¦   ¦       ¦               spinbuttonRole.js
+¦   ¦       ¦               statusRole.js
+¦   ¦       ¦               strongRole.js
+¦   ¦       ¦               subscriptRole.js
+¦   ¦       ¦               superscriptRole.js
+¦   ¦       ¦               switchRole.js
+¦   ¦       ¦               tableRole.js
+¦   ¦       ¦               tablistRole.js
+¦   ¦       ¦               tabpanelRole.js
+¦   ¦       ¦               tabRole.js
+¦   ¦       ¦               termRole.js
+¦   ¦       ¦               textboxRole.js
+¦   ¦       ¦               timeRole.js
+¦   ¦       ¦               timerRole.js
+¦   ¦       ¦               toolbarRole.js
+¦   ¦       ¦               tooltipRole.js
+¦   ¦       ¦               treegridRole.js
+¦   ¦       ¦               treeitemRole.js
+¦   ¦       ¦               treeRole.js
+¦   ¦       ¦               
+¦   ¦       +---util
+¦   ¦               iterationDecorator.js
+¦   ¦               iteratorProxy.js
+¦   ¦               
+¦   +---asynckit
+¦   ¦   ¦   bench.js
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   parallel.js
+¦   ¦   ¦   README.md
+¦   ¦   ¦   serial.js
+¦   ¦   ¦   serialOrdered.js
+¦   ¦   ¦   stream.js
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           abort.js
+¦   ¦           async.js
+¦   ¦           defer.js
+¦   ¦           iterate.js
+¦   ¦           readable_asynckit.js
+¦   ¦           readable_parallel.js
+¦   ¦           readable_serial.js
+¦   ¦           readable_serial_ordered.js
+¦   ¦           state.js
+¦   ¦           streamify.js
+¦   ¦           terminator.js
+¦   ¦           
+¦   +---axios
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.d.cts
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   MIGRATION_GUIDE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   SECURITY.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦   ¦   axios.js
+¦   ¦   ¦   ¦   axios.js.map
+¦   ¦   ¦   ¦   axios.min.js
+¦   ¦   ¦   ¦   axios.min.js.map
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---browser
+¦   ¦   ¦   ¦       axios.cjs
+¦   ¦   ¦   ¦       axios.cjs.map
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---esm
+¦   ¦   ¦   ¦       axios.js
+¦   ¦   ¦   ¦       axios.js.map
+¦   ¦   ¦   ¦       axios.min.js
+¦   ¦   ¦   ¦       axios.min.js.map
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---node
+¦   ¦   ¦           axios.cjs
+¦   ¦   ¦           axios.cjs.map
+¦   ¦   ¦           
+¦   ¦   +---lib
+¦   ¦       ¦   axios.js
+¦   ¦       ¦   utils.js
+¦   ¦       ¦   
+¦   ¦       +---adapters
+¦   ¦       ¦       adapters.js
+¦   ¦       ¦       fetch.js
+¦   ¦       ¦       http.js
+¦   ¦       ¦       README.md
+¦   ¦       ¦       xhr.js
+¦   ¦       ¦       
+¦   ¦       +---cancel
+¦   ¦       ¦       CanceledError.js
+¦   ¦       ¦       CancelToken.js
+¦   ¦       ¦       isCancel.js
+¦   ¦       ¦       
+¦   ¦       +---core
+¦   ¦       ¦       Axios.js
+¦   ¦       ¦       AxiosError.js
+¦   ¦       ¦       AxiosHeaders.js
+¦   ¦       ¦       buildFullPath.js
+¦   ¦       ¦       dispatchRequest.js
+¦   ¦       ¦       InterceptorManager.js
+¦   ¦       ¦       mergeConfig.js
+¦   ¦       ¦       README.md
+¦   ¦       ¦       settle.js
+¦   ¦       ¦       transformData.js
+¦   ¦       ¦       
+¦   ¦       +---defaults
+¦   ¦       ¦       index.js
+¦   ¦       ¦       transitional.js
+¦   ¦       ¦       
+¦   ¦       +---env
+¦   ¦       ¦   ¦   data.js
+¦   ¦       ¦   ¦   README.md
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---classes
+¦   ¦       ¦           FormData.js
+¦   ¦       ¦           
+¦   ¦       +---helpers
+¦   ¦       ¦       AxiosTransformStream.js
+¦   ¦       ¦       AxiosURLSearchParams.js
+¦   ¦       ¦       bind.js
+¦   ¦       ¦       buildURL.js
+¦   ¦       ¦       callbackify.js
+¦   ¦       ¦       combineURLs.js
+¦   ¦       ¦       composeSignals.js
+¦   ¦       ¦       cookies.js
+¦   ¦       ¦       deprecatedMethod.js
+¦   ¦       ¦       formDataToJSON.js
+¦   ¦       ¦       formDataToStream.js
+¦   ¦       ¦       fromDataURI.js
+¦   ¦       ¦       HttpStatusCode.js
+¦   ¦       ¦       isAbsoluteURL.js
+¦   ¦       ¦       isAxiosError.js
+¦   ¦       ¦       isURLSameOrigin.js
+¦   ¦       ¦       null.js
+¦   ¦       ¦       parseHeaders.js
+¦   ¦       ¦       parseProtocol.js
+¦   ¦       ¦       progressEventReducer.js
+¦   ¦       ¦       readBlob.js
+¦   ¦       ¦       README.md
+¦   ¦       ¦       resolveConfig.js
+¦   ¦       ¦       speedometer.js
+¦   ¦       ¦       spread.js
+¦   ¦       ¦       throttle.js
+¦   ¦       ¦       toFormData.js
+¦   ¦       ¦       toURLEncodedForm.js
+¦   ¦       ¦       trackStream.js
+¦   ¦       ¦       validator.js
+¦   ¦       ¦       ZlibHeaderTransformStream.js
+¦   ¦       ¦       
+¦   ¦       +---platform
+¦   ¦           ¦   index.js
+¦   ¦           ¦   
+¦   ¦           +---browser
+¦   ¦           ¦   ¦   index.js
+¦   ¦           ¦   ¦   
+¦   ¦           ¦   +---classes
+¦   ¦           ¦           Blob.js
+¦   ¦           ¦           FormData.js
+¦   ¦           ¦           URLSearchParams.js
+¦   ¦           ¦           
+¦   ¦           +---common
+¦   ¦           ¦       utils.js
+¦   ¦           ¦       
+¦   ¦           +---node
+¦   ¦               ¦   index.js
+¦   ¦               ¦   
+¦   ¦               +---classes
+¦   ¦                       FormData.js
+¦   ¦                       URLSearchParams.js
+¦   ¦                       
+¦   +---axobject-query
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦       ¦   AXObjectElementMap.js
+¦   ¦       ¦   AXObjectRoleMap.js
+¦   ¦       ¦   AXObjectsMap.js
+¦   ¦       ¦   elementAXObjectMap.js
+¦   ¦       ¦   index.js
+¦   ¦       ¦   
+¦   ¦       +---etc
+¦   ¦       ¦   +---objects
+¦   ¦       ¦           AbbrRole.js
+¦   ¦       ¦           AlertDialogRole.js
+¦   ¦       ¦           AlertRole.js
+¦   ¦       ¦           AnnotationRole.js
+¦   ¦       ¦           ApplicationRole.js
+¦   ¦       ¦           ArticleRole.js
+¦   ¦       ¦           AudioRole.js
+¦   ¦       ¦           BannerRole.js
+¦   ¦       ¦           BlockquoteRole.js
+¦   ¦       ¦           BusyIndicatorRole.js
+¦   ¦       ¦           ButtonRole.js
+¦   ¦       ¦           CanvasRole.js
+¦   ¦       ¦           CaptionRole.js
+¦   ¦       ¦           CellRole.js
+¦   ¦       ¦           CheckBoxRole.js
+¦   ¦       ¦           ColorWellRole.js
+¦   ¦       ¦           ColumnHeaderRole.js
+¦   ¦       ¦           ColumnRole.js
+¦   ¦       ¦           ComboBoxRole.js
+¦   ¦       ¦           ComplementaryRole.js
+¦   ¦       ¦           ContentInfoRole.js
+¦   ¦       ¦           DateRole.js
+¦   ¦       ¦           DateTimeRole.js
+¦   ¦       ¦           DefinitionRole.js
+¦   ¦       ¦           DescriptionListDetailRole.js
+¦   ¦       ¦           DescriptionListRole.js
+¦   ¦       ¦           DescriptionListTermRole.js
+¦   ¦       ¦           DetailsRole.js
+¦   ¦       ¦           DialogRole.js
+¦   ¦       ¦           DirectoryRole.js
+¦   ¦       ¦           DisclosureTriangleRole.js
+¦   ¦       ¦           DivRole.js
+¦   ¦       ¦           DocumentRole.js
+¦   ¦       ¦           EmbeddedObjectRole.js
+¦   ¦       ¦           FeedRole.js
+¦   ¦       ¦           FigcaptionRole.js
+¦   ¦       ¦           FigureRole.js
+¦   ¦       ¦           FooterRole.js
+¦   ¦       ¦           FormRole.js
+¦   ¦       ¦           GridRole.js
+¦   ¦       ¦           GroupRole.js
+¦   ¦       ¦           HeadingRole.js
+¦   ¦       ¦           IframePresentationalRole.js
+¦   ¦       ¦           IframeRole.js
+¦   ¦       ¦           IgnoredRole.js
+¦   ¦       ¦           ImageMapLinkRole.js
+¦   ¦       ¦           ImageMapRole.js
+¦   ¦       ¦           ImageRole.js
+¦   ¦       ¦           InlineTextBoxRole.js
+¦   ¦       ¦           InputTimeRole.js
+¦   ¦       ¦           LabelRole.js
+¦   ¦       ¦           LegendRole.js
+¦   ¦       ¦           LineBreakRole.js
+¦   ¦       ¦           LinkRole.js
+¦   ¦       ¦           ListBoxOptionRole.js
+¦   ¦       ¦           ListBoxRole.js
+¦   ¦       ¦           ListItemRole.js
+¦   ¦       ¦           ListMarkerRole.js
+¦   ¦       ¦           ListRole.js
+¦   ¦       ¦           LogRole.js
+¦   ¦       ¦           MainRole.js
+¦   ¦       ¦           MarkRole.js
+¦   ¦       ¦           MarqueeRole.js
+¦   ¦       ¦           MathRole.js
+¦   ¦       ¦           MenuBarRole.js
+¦   ¦       ¦           MenuButtonRole.js
+¦   ¦       ¦           MenuItemCheckBoxRole.js
+¦   ¦       ¦           MenuItemRadioRole.js
+¦   ¦       ¦           MenuItemRole.js
+¦   ¦       ¦           MenuListOptionRole.js
+¦   ¦       ¦           MenuListPopupRole.js
+¦   ¦       ¦           MenuRole.js
+¦   ¦       ¦           MeterRole.js
+¦   ¦       ¦           NavigationRole.js
+¦   ¦       ¦           NoneRole.js
+¦   ¦       ¦           NoteRole.js
+¦   ¦       ¦           OutlineRole.js
+¦   ¦       ¦           ParagraphRole.js
+¦   ¦       ¦           PopUpButtonRole.js
+¦   ¦       ¦           PreRole.js
+¦   ¦       ¦           PresentationalRole.js
+¦   ¦       ¦           ProgressIndicatorRole.js
+¦   ¦       ¦           RadioButtonRole.js
+¦   ¦       ¦           RadioGroupRole.js
+¦   ¦       ¦           RegionRole.js
+¦   ¦       ¦           RootWebAreaRole.js
+¦   ¦       ¦           RowHeaderRole.js
+¦   ¦       ¦           RowRole.js
+¦   ¦       ¦           RubyRole.js
+¦   ¦       ¦           RulerRole.js
+¦   ¦       ¦           ScrollAreaRole.js
+¦   ¦       ¦           ScrollBarRole.js
+¦   ¦       ¦           SeamlessWebAreaRole.js
+¦   ¦       ¦           SearchBoxRole.js
+¦   ¦       ¦           SearchRole.js
+¦   ¦       ¦           SliderRole.js
+¦   ¦       ¦           SliderThumbRole.js
+¦   ¦       ¦           SpinButtonPartRole.js
+¦   ¦       ¦           SpinButtonRole.js
+¦   ¦       ¦           SplitterRole.js
+¦   ¦       ¦           StaticTextRole.js
+¦   ¦       ¦           StatusRole.js
+¦   ¦       ¦           SVGRootRole.js
+¦   ¦       ¦           SwitchRole.js
+¦   ¦       ¦           TabGroupRole.js
+¦   ¦       ¦           TableHeaderContainerRole.js
+¦   ¦       ¦           TableRole.js
+¦   ¦       ¦           TabListRole.js
+¦   ¦       ¦           TabPanelRole.js
+¦   ¦       ¦           TabRole.js
+¦   ¦       ¦           TermRole.js
+¦   ¦       ¦           TextAreaRole.js
+¦   ¦       ¦           TextFieldRole.js
+¦   ¦       ¦           TimeRole.js
+¦   ¦       ¦           TimerRole.js
+¦   ¦       ¦           ToggleButtonRole.js
+¦   ¦       ¦           ToolbarRole.js
+¦   ¦       ¦           TreeGridRole.js
+¦   ¦       ¦           TreeItemRole.js
+¦   ¦       ¦           TreeRole.js
+¦   ¦       ¦           UserInterfaceTooltipRole.js
+¦   ¦       ¦           VideoRole.js
+¦   ¦       ¦           WebAreaRole.js
+¦   ¦       ¦           WindowRole.js
+¦   ¦       ¦           
+¦   ¦       +---util
+¦   ¦               iterationDecorator.js
+¦   ¦               iteratorProxy.js
+¦   ¦               
+¦   +---balanced-match
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦           FUNDING.yml
+¦   ¦           
+¦   +---binary-extensions
+¦   ¦       binary-extensions.json
+¦   ¦       binary-extensions.json.d.ts
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---brace-expansion
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---braces
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           compile.js
+¦   ¦           constants.js
+¦   ¦           expand.js
+¦   ¦           parse.js
+¦   ¦           stringify.js
+¦   ¦           utils.js
+¦   ¦           
+¦   +---buffer-crc32
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           index.cjs
+¦   ¦           index.d.cts
+¦   ¦           index.d.mts
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---chokidar
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦   ¦       constants.js
+¦   ¦   ¦       fsevents-handler.js
+¦   ¦   ¦       nodefs-handler.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           
+¦   +---code-red
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---print
+¦   ¦   ¦   ¦       handlers.js
+¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---utils
+¦   ¦   ¦           comments.js
+¦   ¦   ¦           id.js
+¦   ¦   ¦           push_array.js
+¦   ¦   ¦           
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           index.d.ts.map
+¦   ¦           
+¦   +---combined-stream
+¦   ¦   ¦   License
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   yarn.lock
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           combined_stream.js
+¦   ¦           
+¦   +---concat-map
+¦   ¦   ¦   .travis.yml
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.markdown
+¦   ¦   ¦   
+¦   ¦   +---example
+¦   ¦   ¦       map.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           map.js
+¦   ¦           
+¦   +---cookie
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       SECURITY.md
+¦   ¦       
+¦   +---css-tree
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---cjs
+¦   ¦   ¦   ¦   data-patch.cjs
+¦   ¦   ¦   ¦   data.cjs
+¦   ¦   ¦   ¦   index.cjs
+¦   ¦   ¦   ¦   version.cjs
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---convertor
+¦   ¦   ¦   ¦       create.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---definition-syntax
+¦   ¦   ¦   ¦       generate.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       parse.cjs
+¦   ¦   ¦   ¦       SyntaxError.cjs
+¦   ¦   ¦   ¦       tokenizer.cjs
+¦   ¦   ¦   ¦       walk.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---generator
+¦   ¦   ¦   ¦       create.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       sourceMap.cjs
+¦   ¦   ¦   ¦       token-before.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---lexer
+¦   ¦   ¦   ¦       error.cjs
+¦   ¦   ¦   ¦       generic-an-plus-b.cjs
+¦   ¦   ¦   ¦       generic-const.cjs
+¦   ¦   ¦   ¦       generic-urange.cjs
+¦   ¦   ¦   ¦       generic.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       Lexer.cjs
+¦   ¦   ¦   ¦       match-graph.cjs
+¦   ¦   ¦   ¦       match.cjs
+¦   ¦   ¦   ¦       prepare-tokens.cjs
+¦   ¦   ¦   ¦       search.cjs
+¦   ¦   ¦   ¦       structure.cjs
+¦   ¦   ¦   ¦       trace.cjs
+¦   ¦   ¦   ¦       units.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---parser
+¦   ¦   ¦   ¦       create.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       parse-selector.cjs
+¦   ¦   ¦   ¦       sequence.cjs
+¦   ¦   ¦   ¦       SyntaxError.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---syntax
+¦   ¦   ¦   ¦   ¦   create.cjs
+¦   ¦   ¦   ¦   ¦   index.cjs
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---atrule
+¦   ¦   ¦   ¦   ¦       font-face.cjs
+¦   ¦   ¦   ¦   ¦       import.cjs
+¦   ¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦   ¦       media.cjs
+¦   ¦   ¦   ¦   ¦       nest.cjs
+¦   ¦   ¦   ¦   ¦       page.cjs
+¦   ¦   ¦   ¦   ¦       supports.cjs
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---config
+¦   ¦   ¦   ¦   ¦       generator.cjs
+¦   ¦   ¦   ¦   ¦       lexer.cjs
+¦   ¦   ¦   ¦   ¦       mix.cjs
+¦   ¦   ¦   ¦   ¦       parser-selector.cjs
+¦   ¦   ¦   ¦   ¦       parser.cjs
+¦   ¦   ¦   ¦   ¦       walker.cjs
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---function
+¦   ¦   ¦   ¦   ¦       expression.cjs
+¦   ¦   ¦   ¦   ¦       var.cjs
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   ¦   AnPlusB.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Atrule.cjs
+¦   ¦   ¦   ¦   ¦   ¦   AtrulePrelude.cjs
+¦   ¦   ¦   ¦   ¦   ¦   AttributeSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Block.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Brackets.cjs
+¦   ¦   ¦   ¦   ¦   ¦   CDC.cjs
+¦   ¦   ¦   ¦   ¦   ¦   CDO.cjs
+¦   ¦   ¦   ¦   ¦   ¦   ClassSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Combinator.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Comment.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Condition.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Declaration.cjs
+¦   ¦   ¦   ¦   ¦   ¦   DeclarationList.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Dimension.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Feature.cjs
+¦   ¦   ¦   ¦   ¦   ¦   FeatureRange.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Function.cjs
+¦   ¦   ¦   ¦   ¦   ¦   GeneralEnclosed.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Hash.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Identifier.cjs
+¦   ¦   ¦   ¦   ¦   ¦   IdSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   index-generate.cjs
+¦   ¦   ¦   ¦   ¦   ¦   index-parse-selector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   index-parse.cjs
+¦   ¦   ¦   ¦   ¦   ¦   index.cjs
+¦   ¦   ¦   ¦   ¦   ¦   MediaCondition.cjs
+¦   ¦   ¦   ¦   ¦   ¦   MediaFeature.cjs
+¦   ¦   ¦   ¦   ¦   ¦   MediaFeatureRange.cjs
+¦   ¦   ¦   ¦   ¦   ¦   MediaQuery.cjs
+¦   ¦   ¦   ¦   ¦   ¦   MediaQueryList.cjs
+¦   ¦   ¦   ¦   ¦   ¦   NestingSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Nth.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Number.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Operator.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Parentheses.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Percentage.cjs
+¦   ¦   ¦   ¦   ¦   ¦   PseudoClassSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   PseudoElementSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Ratio.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Raw.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Rule.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Selector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   SelectorList.cjs
+¦   ¦   ¦   ¦   ¦   ¦   String.cjs
+¦   ¦   ¦   ¦   ¦   ¦   StyleSheet.cjs
+¦   ¦   ¦   ¦   ¦   ¦   TypeSelector.cjs
+¦   ¦   ¦   ¦   ¦   ¦   UnicodeRange.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Url.cjs
+¦   ¦   ¦   ¦   ¦   ¦   Value.cjs
+¦   ¦   ¦   ¦   ¦   ¦   WhiteSpace.cjs
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---common
+¦   ¦   ¦   ¦   ¦           feature-range.cjs
+¦   ¦   ¦   ¦   ¦           feature.cjs
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---pseudo
+¦   ¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---scope
+¦   ¦   ¦   ¦           atrulePrelude.cjs
+¦   ¦   ¦   ¦           default.cjs
+¦   ¦   ¦   ¦           index.cjs
+¦   ¦   ¦   ¦           selector.cjs
+¦   ¦   ¦   ¦           value.cjs
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---tokenizer
+¦   ¦   ¦   ¦       adopt-buffer.cjs
+¦   ¦   ¦   ¦       char-code-definitions.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       names.cjs
+¦   ¦   ¦   ¦       OffsetToLocation.cjs
+¦   ¦   ¦   ¦       TokenStream.cjs
+¦   ¦   ¦   ¦       types.cjs
+¦   ¦   ¦   ¦       utils.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦       clone.cjs
+¦   ¦   ¦   ¦       create-custom-error.cjs
+¦   ¦   ¦   ¦       ident.cjs
+¦   ¦   ¦   ¦       index.cjs
+¦   ¦   ¦   ¦       List.cjs
+¦   ¦   ¦   ¦       names.cjs
+¦   ¦   ¦   ¦       string.cjs
+¦   ¦   ¦   ¦       url.cjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---walker
+¦   ¦   ¦           create.cjs
+¦   ¦   ¦           index.cjs
+¦   ¦   ¦           
+¦   ¦   +---data
+¦   ¦   ¦       patch.json
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦   ¦       csstree.esm.js
+¦   ¦   ¦       csstree.js
+¦   ¦   ¦       data.cjs
+¦   ¦   ¦       data.js
+¦   ¦   ¦       version.cjs
+¦   ¦   ¦       version.js
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦       ¦   data-patch.js
+¦   ¦       ¦   data.js
+¦   ¦       ¦   index.js
+¦   ¦       ¦   version.js
+¦   ¦       ¦   
+¦   ¦       +---convertor
+¦   ¦       ¦       create.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       
+¦   ¦       +---definition-syntax
+¦   ¦       ¦       generate.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       parse.js
+¦   ¦       ¦       SyntaxError.js
+¦   ¦       ¦       tokenizer.js
+¦   ¦       ¦       walk.js
+¦   ¦       ¦       
+¦   ¦       +---generator
+¦   ¦       ¦       create.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       sourceMap.js
+¦   ¦       ¦       token-before.js
+¦   ¦       ¦       
+¦   ¦       +---lexer
+¦   ¦       ¦       error.js
+¦   ¦       ¦       generic-an-plus-b.js
+¦   ¦       ¦       generic-const.js
+¦   ¦       ¦       generic-urange.js
+¦   ¦       ¦       generic.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       Lexer.js
+¦   ¦       ¦       match-graph.js
+¦   ¦       ¦       match.js
+¦   ¦       ¦       prepare-tokens.js
+¦   ¦       ¦       search.js
+¦   ¦       ¦       structure.js
+¦   ¦       ¦       trace.js
+¦   ¦       ¦       units.js
+¦   ¦       ¦       
+¦   ¦       +---parser
+¦   ¦       ¦       create.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       parse-selector.js
+¦   ¦       ¦       sequence.js
+¦   ¦       ¦       SyntaxError.js
+¦   ¦       ¦       
+¦   ¦       +---syntax
+¦   ¦       ¦   ¦   create.js
+¦   ¦       ¦   ¦   index.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---atrule
+¦   ¦       ¦   ¦       font-face.js
+¦   ¦       ¦   ¦       import.js
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       media.js
+¦   ¦       ¦   ¦       nest.js
+¦   ¦       ¦   ¦       page.js
+¦   ¦       ¦   ¦       supports.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---config
+¦   ¦       ¦   ¦       generator.js
+¦   ¦       ¦   ¦       lexer.js
+¦   ¦       ¦   ¦       mix.js
+¦   ¦       ¦   ¦       parser-selector.js
+¦   ¦       ¦   ¦       parser.js
+¦   ¦       ¦   ¦       walker.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---function
+¦   ¦       ¦   ¦       expression.js
+¦   ¦       ¦   ¦       var.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---node
+¦   ¦       ¦   ¦       AnPlusB.js
+¦   ¦       ¦   ¦       Atrule.js
+¦   ¦       ¦   ¦       AtrulePrelude.js
+¦   ¦       ¦   ¦       AttributeSelector.js
+¦   ¦       ¦   ¦       Block.js
+¦   ¦       ¦   ¦       Brackets.js
+¦   ¦       ¦   ¦       CDC.js
+¦   ¦       ¦   ¦       CDO.js
+¦   ¦       ¦   ¦       ClassSelector.js
+¦   ¦       ¦   ¦       Combinator.js
+¦   ¦       ¦   ¦       Comment.js
+¦   ¦       ¦   ¦       Declaration.js
+¦   ¦       ¦   ¦       DeclarationList.js
+¦   ¦       ¦   ¦       Dimension.js
+¦   ¦       ¦   ¦       Function.js
+¦   ¦       ¦   ¦       Hash.js
+¦   ¦       ¦   ¦       Identifier.js
+¦   ¦       ¦   ¦       IdSelector.js
+¦   ¦       ¦   ¦       index-generate.js
+¦   ¦       ¦   ¦       index-parse-selector.js
+¦   ¦       ¦   ¦       index-parse.js
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       MediaFeature.js
+¦   ¦       ¦   ¦       MediaQuery.js
+¦   ¦       ¦   ¦       MediaQueryList.js
+¦   ¦       ¦   ¦       NestingSelector.js
+¦   ¦       ¦   ¦       Nth.js
+¦   ¦       ¦   ¦       Number.js
+¦   ¦       ¦   ¦       Operator.js
+¦   ¦       ¦   ¦       Parentheses.js
+¦   ¦       ¦   ¦       Percentage.js
+¦   ¦       ¦   ¦       PseudoClassSelector.js
+¦   ¦       ¦   ¦       PseudoElementSelector.js
+¦   ¦       ¦   ¦       Ratio.js
+¦   ¦       ¦   ¦       Raw.js
+¦   ¦       ¦   ¦       Rule.js
+¦   ¦       ¦   ¦       Selector.js
+¦   ¦       ¦   ¦       SelectorList.js
+¦   ¦       ¦   ¦       String.js
+¦   ¦       ¦   ¦       StyleSheet.js
+¦   ¦       ¦   ¦       TypeSelector.js
+¦   ¦       ¦   ¦       UnicodeRange.js
+¦   ¦       ¦   ¦       Url.js
+¦   ¦       ¦   ¦       Value.js
+¦   ¦       ¦   ¦       WhiteSpace.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---pseudo
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---scope
+¦   ¦       ¦           atrulePrelude.js
+¦   ¦       ¦           default.js
+¦   ¦       ¦           index.js
+¦   ¦       ¦           selector.js
+¦   ¦       ¦           value.js
+¦   ¦       ¦           
+¦   ¦       +---tokenizer
+¦   ¦       ¦       adopt-buffer.js
+¦   ¦       ¦       char-code-definitions.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       names.js
+¦   ¦       ¦       OffsetToLocation.js
+¦   ¦       ¦       TokenStream.js
+¦   ¦       ¦       types.js
+¦   ¦       ¦       utils.js
+¦   ¦       ¦       
+¦   ¦       +---utils
+¦   ¦       ¦       clone.js
+¦   ¦       ¦       create-custom-error.js
+¦   ¦       ¦       ident.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       List.js
+¦   ¦       ¦       names.js
+¦   ¦       ¦       string.js
+¦   ¦       ¦       url.js
+¦   ¦       ¦       
+¦   ¦       +---walker
+¦   ¦               create.js
+¦   ¦               index.js
+¦   ¦               
+¦   +---debug
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦           browser.js
+¦   ¦           common.js
+¦   ¦           index.js
+¦   ¦           node.js
+¦   ¦           
+¦   +---deepmerge
+¦   ¦   ¦   .editorconfig
+¦   ¦   ¦   .eslintcache
+¦   ¦   ¦   changelog.md
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   license.txt
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   rollup.config.js
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           cjs.js
+¦   ¦           umd.js
+¦   ¦           
+¦   +---delayed-stream
+¦   ¦   ¦   .npmignore
+¦   ¦   ¦   License
+¦   ¦   ¦   Makefile
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           delayed_stream.js
+¦   ¦           
+¦   +---dequal
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   license
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦       index.js
+¦   ¦   ¦       index.min.js
+¦   ¦   ¦       index.mjs
+¦   ¦   ¦       
+¦   ¦   +---lite
+¦   ¦           index.d.ts
+¦   ¦           index.js
+¦   ¦           index.min.js
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---detect-indent
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---devalue
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       constants.js
+¦   ¦   ¦       parse.js
+¦   ¦   ¦       stringify.js
+¦   ¦   ¦       uneval.js
+¦   ¦   ¦       utils.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           index.d.ts.map
+¦   ¦           
+¦   +---es6-promise
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   es6-promise.d.ts
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦       es6-promise.js
+¦   ¦   ¦       es6-promise.map
+¦   ¦   ¦       es6-promise.min.js
+¦   ¦   ¦       es6-promise.min.map
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦       ¦   es6-promise.js
+¦   ¦       ¦   
+¦   ¦       +---es6-promise
+¦   ¦           ¦   -internal.js
+¦   ¦           ¦   asap.js
+¦   ¦           ¦   enumerator.js
+¦   ¦           ¦   polyfill.js
+¦   ¦           ¦   promise.js
+¦   ¦           ¦   then.js
+¦   ¦           ¦   utils.js
+¦   ¦           ¦   
+¦   ¦           +---promise
+¦   ¦                   all.js
+¦   ¦                   race.js
+¦   ¦                   reject.js
+¦   ¦                   resolve.js
+¦   ¦                   
+¦   +---esbuild
+¦   ¦   ¦   install.js
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       esbuild
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦           main.d.ts
+¦   ¦           main.js
+¦   ¦           
+¦   +---esm-env
+¦   ¦       dev-browser.js
+¦   ¦       dev-ssr.js
+¦   ¦       index.d.ts
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       prod-browser.js
+¦   ¦       prod-ssr.js
+¦   ¦       README.md
+¦   ¦       
+¦   +---estree-walker
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       async.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       sync.js
+¦   ¦   ¦       walker.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           async.d.ts
+¦   ¦           index.d.ts
+¦   ¦           sync.d.ts
+¦   ¦           walker.d.ts
+¦   ¦           
+¦   +---fill-range
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---follow-redirects
+¦   ¦       debug.js
+¦   ¦       http.js
+¦   ¦       https.js
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---form-data
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   License
+¦   ¦   ¦   package.json
+¦   ¦   ¦   Readme.md
+¦   ¦   ¦   README.md.bak
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           browser.js
+¦   ¦           form_data.js
+¦   ¦           populate.js
+¦   ¦           
+¦   +---fs.realpath
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       old.js
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---glob
+¦   ¦       common.js
+¦   ¦       glob.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       sync.js
+¦   ¦       
+¦   +---glob-parent
+¦   ¦       CHANGELOG.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---globalyzer
+¦   ¦   ¦   license
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦           .DS_Store
+¦   ¦           index.js
+¦   ¦           
+¦   +---globrex
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---graceful-fs
+¦   ¦       clone.js
+¦   ¦       graceful-fs.js
+¦   ¦       legacy-streams.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       polyfills.js
+¦   ¦       README.md
+¦   ¦       
+¦   +---import-meta-resolve
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   license
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           errors.d.ts
+¦   ¦           errors.js
+¦   ¦           get-format.d.ts
+¦   ¦           get-format.js
+¦   ¦           package-json-reader.d.ts
+¦   ¦           package-json-reader.js
+¦   ¦           resolve.d.ts
+¦   ¦           resolve.js
+¦   ¦           utils.d.ts
+¦   ¦           utils.js
+¦   ¦           
+¦   +---inflight
+¦   ¦       inflight.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---inherits
+¦   ¦       inherits.js
+¦   ¦       inherits_browser.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---is-binary-path
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---is-extglob
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---is-glob
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---is-number
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---is-reference
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       index.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           index.d.ts.map
+¦   ¦           
+¦   +---kleur
+¦   ¦       colors.d.ts
+¦   ¦       colors.js
+¦   ¦       colors.mjs
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       index.mjs
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---leaflet
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦   ¦   leaflet-src.esm.js
+¦   ¦   ¦   ¦   leaflet-src.esm.js.map
+¦   ¦   ¦   ¦   leaflet-src.js
+¦   ¦   ¦   ¦   leaflet-src.js.map
+¦   ¦   ¦   ¦   leaflet.css
+¦   ¦   ¦   ¦   leaflet.js
+¦   ¦   ¦   ¦   leaflet.js.map
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---images
+¦   ¦   ¦           layers-2x.png
+¦   ¦   ¦           layers.png
+¦   ¦   ¦           marker-icon-2x.png
+¦   ¦   ¦           marker-icon.png
+¦   ¦   ¦           marker-shadow.png
+¦   ¦   ¦           
+¦   ¦   +---src
+¦   ¦       ¦   Leaflet.js
+¦   ¦       ¦   
+¦   ¦       +---control
+¦   ¦       ¦       Control.Attribution.js
+¦   ¦       ¦       Control.js
+¦   ¦       ¦       Control.Layers.js
+¦   ¦       ¦       Control.Scale.js
+¦   ¦       ¦       Control.Zoom.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       
+¦   ¦       +---core
+¦   ¦       ¦       Browser.js
+¦   ¦       ¦       Class.js
+¦   ¦       ¦       Class.leafdoc
+¦   ¦       ¦       Events.js
+¦   ¦       ¦       Events.leafdoc
+¦   ¦       ¦       Handler.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       Util.js
+¦   ¦       ¦       
+¦   ¦       +---dom
+¦   ¦       ¦       DomEvent.DoubleTap.js
+¦   ¦       ¦       DomEvent.js
+¦   ¦       ¦       DomEvent.Pointer.js
+¦   ¦       ¦       DomUtil.js
+¦   ¦       ¦       Draggable.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       PosAnimation.js
+¦   ¦       ¦       
+¦   ¦       +---geo
+¦   ¦       ¦   ¦   index.js
+¦   ¦       ¦   ¦   LatLng.js
+¦   ¦       ¦   ¦   LatLngBounds.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---crs
+¦   ¦       ¦   ¦       CRS.Earth.js
+¦   ¦       ¦   ¦       CRS.EPSG3395.js
+¦   ¦       ¦   ¦       CRS.EPSG3857.js
+¦   ¦       ¦   ¦       CRS.EPSG4326.js
+¦   ¦       ¦   ¦       CRS.js
+¦   ¦       ¦   ¦       CRS.Simple.js
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---projection
+¦   ¦       ¦           index.js
+¦   ¦       ¦           Projection.LonLat.js
+¦   ¦       ¦           Projection.Mercator.js
+¦   ¦       ¦           Projection.SphericalMercator.js
+¦   ¦       ¦           
+¦   ¦       +---geometry
+¦   ¦       ¦       Bounds.js
+¦   ¦       ¦       index.js
+¦   ¦       ¦       LineUtil.js
+¦   ¦       ¦       Point.js
+¦   ¦       ¦       PolyUtil.js
+¦   ¦       ¦       Transformation.js
+¦   ¦       ¦       
+¦   ¦       +---images
+¦   ¦       ¦       layers.svg
+¦   ¦       ¦       logo.svg
+¦   ¦       ¦       marker.svg
+¦   ¦       ¦       
+¦   ¦       +---layer
+¦   ¦       ¦   ¦   DivOverlay.js
+¦   ¦       ¦   ¦   FeatureGroup.js
+¦   ¦       ¦   ¦   GeoJSON.js
+¦   ¦       ¦   ¦   ImageOverlay.js
+¦   ¦       ¦   ¦   index.js
+¦   ¦       ¦   ¦   Layer.Interactive.leafdoc
+¦   ¦       ¦   ¦   Layer.js
+¦   ¦       ¦   ¦   LayerGroup.js
+¦   ¦       ¦   ¦   Popup.js
+¦   ¦       ¦   ¦   SVGOverlay.js
+¦   ¦       ¦   ¦   Tooltip.js
+¦   ¦       ¦   ¦   VideoOverlay.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---marker
+¦   ¦       ¦   ¦       DivIcon.js
+¦   ¦       ¦   ¦       Icon.Default.js
+¦   ¦       ¦   ¦       Icon.js
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       Marker.Drag.js
+¦   ¦       ¦   ¦       Marker.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---tile
+¦   ¦       ¦   ¦       GridLayer.js
+¦   ¦       ¦   ¦       index.js
+¦   ¦       ¦   ¦       TileLayer.js
+¦   ¦       ¦   ¦       TileLayer.WMS.js
+¦   ¦       ¦   ¦       
+¦   ¦       ¦   +---vector
+¦   ¦       ¦           Canvas.js
+¦   ¦       ¦           Circle.js
+¦   ¦       ¦           CircleMarker.js
+¦   ¦       ¦           index.js
+¦   ¦       ¦           Path.js
+¦   ¦       ¦           Polygon.js
+¦   ¦       ¦           Polyline.js
+¦   ¦       ¦           Rectangle.js
+¦   ¦       ¦           Renderer.getRenderer.js
+¦   ¦       ¦           Renderer.js
+¦   ¦       ¦           SVG.js
+¦   ¦       ¦           SVG.Util.js
+¦   ¦       ¦           SVG.VML.js
+¦   ¦       ¦           
+¦   ¦       +---map
+¦   ¦           ¦   index.js
+¦   ¦           ¦   Map.js
+¦   ¦           ¦   Map.methodOptions.leafdoc
+¦   ¦           ¦   
+¦   ¦           +---handler
+¦   ¦                   Map.BoxZoom.js
+¦   ¦                   Map.DoubleClickZoom.js
+¦   ¦                   Map.Drag.js
+¦   ¦                   Map.Keyboard.js
+¦   ¦                   Map.ScrollWheelZoom.js
+¦   ¦                   Map.TapHold.js
+¦   ¦                   Map.TouchZoom.js
+¦   ¦                   
+¦   +---leaflet-routing-machine
+¦   ¦   ¦   .jshintrc
+¦   ¦   ¦   .travis.yml
+¦   ¦   ¦   bower.json
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   ISSUE_TEMPLATE.md
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦       leaflet-routing-machine.css
+¦   ¦   ¦       leaflet-routing-machine.js
+¦   ¦   ¦       leaflet-routing-machine.min.js
+¦   ¦   ¦       leaflet.routing.icons.png
+¦   ¦   ¦       leaflet.routing.icons.svg
+¦   ¦   ¦       routing-icon.png
+¦   ¦   ¦       
+¦   ¦   +---examples
+¦   ¦   ¦       config.js
+¦   ¦   ¦       Control.Geocoder.js
+¦   ¦   ¦       index.css
+¦   ¦   ¦       index.html
+¦   ¦   ¦       index.js
+¦   ¦   ¦       localized.html
+¦   ¦   ¦       localized.js
+¦   ¦   ¦       mapbox.html
+¦   ¦   ¦       mapbox.js
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦   ¦       publish.sh
+¦   ¦   ¦       
+¦   ¦   +---src
+¦   ¦   ¦       autocomplete.js
+¦   ¦   ¦       control.js
+¦   ¦   ¦       error-control.js
+¦   ¦   ¦       formatter.js
+¦   ¦   ¦       geocoder-element.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       itinerary-builder.js
+¦   ¦   ¦       itinerary.js
+¦   ¦   ¦       line.js
+¦   ¦   ¦       localization.js
+¦   ¦   ¦       mapbox.js
+¦   ¦   ¦       osrm-v1.js
+¦   ¦   ¦       plan.js
+¦   ¦   ¦       waypoint.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦       ¦   SpecRunner.html
+¦   ¦       ¦   
+¦   ¦       +---lib
+¦   ¦       ¦   +---jasmine-2.0.0
+¦   ¦       ¦           boot.js
+¦   ¦       ¦           console.js
+¦   ¦       ¦           jasmine-html.js
+¦   ¦       ¦           jasmine.css
+¦   ¦       ¦           jasmine.js
+¦   ¦       ¦           jasmine_favicon.png
+¦   ¦       ¦           
+¦   ¦       +---spec
+¦   ¦               formatter-spec.js
+¦   ¦               osrmv1-spec.js
+¦   ¦               
+¦   +---locate-character
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       index.js
+¦   ¦   ¦       types.d.ts
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           index.d.ts.map
+¦   ¦           
+¦   +---magic-string
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦           magic-string.cjs.d.ts
+¦   ¦           magic-string.cjs.js
+¦   ¦           magic-string.cjs.js.map
+¦   ¦           magic-string.es.d.mts
+¦   ¦           magic-string.es.mjs
+¦   ¦           magic-string.es.mjs.map
+¦   ¦           magic-string.umd.js
+¦   ¦           magic-string.umd.js.map
+¦   ¦           
+¦   +---mdn-data
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---api
+¦   ¦   ¦       index.js
+¦   ¦   ¦       inheritance.json
+¦   ¦   ¦       inheritance.schema.json
+¦   ¦   ¦       
+¦   ¦   +---css
+¦   ¦   ¦       at-rules.json
+¦   ¦   ¦       at-rules.schema.json
+¦   ¦   ¦       definitions.json
+¦   ¦   ¦       index.js
+¦   ¦   ¦       properties.json
+¦   ¦   ¦       properties.schema.json
+¦   ¦   ¦       readme.md
+¦   ¦   ¦       selectors.json
+¦   ¦   ¦       selectors.schema.json
+¦   ¦   ¦       syntaxes.json
+¦   ¦   ¦       syntaxes.schema.json
+¦   ¦   ¦       types.json
+¦   ¦   ¦       types.schema.json
+¦   ¦   ¦       units.json
+¦   ¦   ¦       units.schema.json
+¦   ¦   ¦       
+¦   ¦   +---l10n
+¦   ¦           css.json
+¦   ¦           index.js
+¦   ¦           
+¦   +---mime-db
+¦   ¦       db.json
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---mime-types
+¦   ¦       HISTORY.md
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---min-indent
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---minimatch
+¦   ¦       LICENSE
+¦   ¦       minimatch.js
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---minimist
+¦   ¦   ¦   .eslintrc
+¦   ¦   ¦   .nycrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       FUNDING.yml
+¦   ¦   ¦       
+¦   ¦   +---example
+¦   ¦   ¦       parse.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦           all_bool.js
+¦   ¦           bool.js
+¦   ¦           dash.js
+¦   ¦           default_bool.js
+¦   ¦           dotted.js
+¦   ¦           kv_short.js
+¦   ¦           long.js
+¦   ¦           num.js
+¦   ¦           parse.js
+¦   ¦           parse_modified.js
+¦   ¦           proto.js
+¦   ¦           short.js
+¦   ¦           stop_early.js
+¦   ¦           unknown.js
+¦   ¦           whitespace.js
+¦   ¦           
+¦   +---mkdirp
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.markdown
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦           cmd.js
+¦   ¦           usage.txt
+¦   ¦           
+¦   +---mri
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   license.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           index.js
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---mrmime
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       index.mjs
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---ms
+¦   ¦       index.js
+¦   ¦       license.md
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---nanoid
+¦   ¦   ¦   index.browser.cjs
+¦   ¦   ¦   index.browser.js
+¦   ¦   ¦   index.cjs
+¦   ¦   ¦   index.d.cts
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   nanoid.js
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---async
+¦   ¦   ¦       index.browser.cjs
+¦   ¦   ¦       index.browser.js
+¦   ¦   ¦       index.cjs
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       index.js
+¦   ¦   ¦       index.native.js
+¦   ¦   ¦       package.json
+¦   ¦   ¦       
+¦   ¦   +---bin
+¦   ¦   ¦       nanoid.cjs
+¦   ¦   ¦       
+¦   ¦   +---non-secure
+¦   ¦   ¦       index.cjs
+¦   ¦   ¦       index.d.ts
+¦   ¦   ¦       index.js
+¦   ¦   ¦       package.json
+¦   ¦   ¦       
+¦   ¦   +---url-alphabet
+¦   ¦           index.cjs
+¦   ¦           index.js
+¦   ¦           package.json
+¦   ¦           
+¦   +---normalize-path
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---once
+¦   ¦       LICENSE
+¦   ¦       once.js
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---osrm-text-instructions
+¦   ¦   ¦   .eslintrc.json
+¦   ¦   ¦   .gitattributes
+¦   ¦   ¦   .nvmrc
+¦   ¦   ¦   .travis.yml
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   CONTRIBUTING.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   languages.js
+¦   ¦   ¦   LICENSE.txt
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---.github
+¦   ¦   ¦       PULL_REQUEST_TEMPLATE.md
+¦   ¦   ¦       
+¦   ¦   +---languages
+¦   ¦   ¦   +---abbreviations
+¦   ¦   ¦   ¦       bg.json
+¦   ¦   ¦   ¦       ca.json
+¦   ¦   ¦   ¦       da.json
+¦   ¦   ¦   ¦       de.json
+¦   ¦   ¦   ¦       en.json
+¦   ¦   ¦   ¦       es.json
+¦   ¦   ¦   ¦       fr.json
+¦   ¦   ¦   ¦       he.json
+¦   ¦   ¦   ¦       hu.json
+¦   ¦   ¦   ¦       lt.json
+¦   ¦   ¦   ¦       nl.json
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       ru.json
+¦   ¦   ¦   ¦       sl.json
+¦   ¦   ¦   ¦       sv.json
+¦   ¦   ¦   ¦       uk.json
+¦   ¦   ¦   ¦       vi.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---grammar
+¦   ¦   ¦   ¦       da.json
+¦   ¦   ¦   ¦       fr.json
+¦   ¦   ¦   ¦       hu.json
+¦   ¦   ¦   ¦       README.md
+¦   ¦   ¦   ¦       ru.json
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---overrides
+¦   ¦   ¦   ¦       da.js
+¦   ¦   ¦   ¦       de.js
+¦   ¦   ¦   ¦       fr.js
+¦   ¦   ¦   ¦       hu.js
+¦   ¦   ¦   ¦       ja.js
+¦   ¦   ¦   ¦       ko.js
+¦   ¦   ¦   ¦       my.js
+¦   ¦   ¦   ¦       ru.js
+¦   ¦   ¦   ¦       zh-Hans.js
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---translations
+¦   ¦   ¦           ar.json
+¦   ¦   ¦           da.json
+¦   ¦   ¦           de.json
+¦   ¦   ¦           en.json
+¦   ¦   ¦           eo.json
+¦   ¦   ¦           es-ES.json
+¦   ¦   ¦           es.json
+¦   ¦   ¦           fi.json
+¦   ¦   ¦           fr.json
+¦   ¦   ¦           he.json
+¦   ¦   ¦           hu.json
+¦   ¦   ¦           id.json
+¦   ¦   ¦           it.json
+¦   ¦   ¦           ja.json
+¦   ¦   ¦           ko.json
+¦   ¦   ¦           my.json
+¦   ¦   ¦           nl.json
+¦   ¦   ¦           no.json
+¦   ¦   ¦           pl.json
+¦   ¦   ¦           pt-BR.json
+¦   ¦   ¦           pt-PT.json
+¦   ¦   ¦           ro.json
+¦   ¦   ¦           ru.json
+¦   ¦   ¦           sl.json
+¦   ¦   ¦           sv.json
+¦   ¦   ¦           tr.json
+¦   ¦   ¦           uk.json
+¦   ¦   ¦           vi.json
+¦   ¦   ¦           yo.json
+¦   ¦   ¦           zh-Hans.json
+¦   ¦   ¦           
+¦   ¦   +---local
+¦   ¦   ¦       copy-translations.js
+¦   ¦   ¦       copy-translations.sh
+¦   ¦   ¦       node_bindings_old.cc
+¦   ¦   ¦       test_output.txt
+¦   ¦   ¦       test_output2.txt
+¦   ¦   ¦       
+¦   ¦   +---scripts
+¦   ¦   ¦       transifex.js
+¦   ¦   ¦       
+¦   ¦   +---test
+¦   ¦       ¦   constants.js
+¦   ¦       ¦   fixtures_test.js
+¦   ¦       ¦   grammar_test.js
+¦   ¦       ¦   index_test.js
+¦   ¦       ¦   languages_test.js
+¦   ¦       ¦   
+¦   ¦       +---fixtures
+¦   ¦           +---v5
+¦   ¦               +---arrive
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp_left.json
+¦   ¦               ¦       sharp_right.json
+¦   ¦               ¦       slight_left.json
+¦   ¦               ¦       slight_right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       uturn.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_short
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp left.json
+¦   ¦               ¦       sharp right.json
+¦   ¦               ¦       slight left.json
+¦   ¦               ¦       slight right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_short_upcoming
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp left.json
+¦   ¦               ¦       sharp right.json
+¦   ¦               ¦       slight left.json
+¦   ¦               ¦       slight right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_upcoming
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp left.json
+¦   ¦               ¦       sharp right.json
+¦   ¦               ¦       slight left.json
+¦   ¦               ¦       slight right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_waypoint
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp_left.json
+¦   ¦               ¦       sharp_right.json
+¦   ¦               ¦       slight_left.json
+¦   ¦               ¦       slight_right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       uturn.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_waypoint_last
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp_left.json
+¦   ¦               ¦       sharp_right.json
+¦   ¦               ¦       slight_left.json
+¦   ¦               ¦       slight_right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       uturn.json
+¦   ¦               ¦       
+¦   ¦               +---arrive_waypoint_name
+¦   ¦               ¦       left.json
+¦   ¦               ¦       no_modifier.json
+¦   ¦               ¦       right.json
+¦   ¦               ¦       sharp_left.json
+¦   ¦               ¦       sharp_right.json
+¦   ¦               ¦       slight_left.json
+¦   ¦               ¦       slight_right.json
+¦   ¦               ¦       straight.json
+¦   ¦               ¦       uturn.json
+¦   ¦               ¦       
+¦   ¦               +---continue
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---depart
+¦   ¦               ¦       east_110.json
+¦   ¦               ¦       east_70.json
+¦   ¦               ¦       modifier_default.json
+¦   ¦               ¦       modifier_destination.json
+¦   ¦               ¦       modifier_exit.json
+¦   ¦               ¦       modifier_exit_destination.json
+¦   ¦               ¦       modifier_name.json
+¦   ¦               ¦       northeast_21.json
+¦   ¦               ¦       northeast_69.json
+¦   ¦               ¦       northwest_291.json
+¦   ¦               ¦       northwest_339.json
+¦   ¦               ¦       north_20.json
+¦   ¦               ¦       north_340.json
+¦   ¦               ¦       southeast_111.json
+¦   ¦               ¦       southeast_159.json
+¦   ¦               ¦       southwest_201.json
+¦   ¦               ¦       southwest_249.json
+¦   ¦               ¦       south_160.json
+¦   ¦               ¦       south_200.json
+¦   ¦               ¦       west_250.json
+¦   ¦               ¦       west_290.json
+¦   ¦               ¦       
+¦   ¦               +---end_of_road
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---exit_rotary
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---exit_roundabout
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---fork
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---merge
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---modes
+¦   ¦               ¦       driving_turn_left.json
+¦   ¦               ¦       ferry_fork_left_default.json
+¦   ¦               ¦       ferry_fork_left_destination.json
+¦   ¦               ¦       ferry_fork_left_exit.json
+¦   ¦               ¦       ferry_fork_left_exit_destination.json
+¦   ¦               ¦       ferry_fork_left_name.json
+¦   ¦               ¦       ferry_turn_left_default.json
+¦   ¦               ¦       ferry_turn_left_destination.json
+¦   ¦               ¦       ferry_turn_left_exit.json
+¦   ¦               ¦       ferry_turn_left_exit_destination.json
+¦   ¦               ¦       ferry_turn_left_name.json
+¦   ¦               ¦       
+¦   ¦               +---new_name
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---notification
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---off_ramp
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---on_ramp
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---other
+¦   ¦               ¦       invalid_type.json
+¦   ¦               ¦       motorway_ref_has_no_number_left.json
+¦   ¦               ¦       motorway_ref_has_no_number_right.json
+¦   ¦               ¦       motorway_ref_has_no_number_sharp left.json
+¦   ¦               ¦       motorway_ref_has_no_number_sharp right.json
+¦   ¦               ¦       motorway_ref_has_no_number_slight left.json
+¦   ¦               ¦       motorway_ref_has_no_number_slight right.json
+¦   ¦               ¦       motorway_ref_has_no_number_straight.json
+¦   ¦               ¦       motorway_ref_has_no_number_uturn.json
+¦   ¦               ¦       motorway_ref_has_number_left.json
+¦   ¦               ¦       motorway_ref_has_number_right.json
+¦   ¦               ¦       motorway_ref_has_number_sharp left.json
+¦   ¦               ¦       motorway_ref_has_number_sharp right.json
+¦   ¦               ¦       motorway_ref_has_number_slight left.json
+¦   ¦               ¦       motorway_ref_has_number_slight right.json
+¦   ¦               ¦       motorway_ref_has_number_straight.json
+¦   ¦               ¦       motorway_ref_has_number_uturn.json
+¦   ¦               ¦       way_name_class_ferry_left.json
+¦   ¦               ¦       way_name_class_ferry_right.json
+¦   ¦               ¦       way_name_class_ferry_sharp left.json
+¦   ¦               ¦       way_name_class_ferry_sharp right.json
+¦   ¦               ¦       way_name_class_ferry_slight left.json
+¦   ¦               ¦       way_name_class_ferry_slight right.json
+¦   ¦               ¦       way_name_class_ferry_straight.json
+¦   ¦               ¦       way_name_class_ferry_uturn.json
+¦   ¦               ¦       way_name_destination_refs.json
+¦   ¦               ¦       way_name_ref.json
+¦   ¦               ¦       way_name_ref_destinations.json
+¦   ¦               ¦       way_name_ref_mapbox_hack_1.json
+¦   ¦               ¦       way_name_ref_mapbox_hack_2.json
+¦   ¦               ¦       way_name_ref_mapbox_hack_3.json
+¦   ¦               ¦       way_name_ref_name.json
+¦   ¦               ¦       
+¦   ¦               +---phrase
+¦   ¦               ¦       exit_with_number.json
+¦   ¦               ¦       name_and_ref.json
+¦   ¦               ¦       one_in_distance.json
+¦   ¦               ¦       two_linked.json
+¦   ¦               ¦       two_linked_by_distance.json
+¦   ¦               ¦       
+¦   ¦               +---rotary
+¦   ¦               ¦       default_default.json
+¦   ¦               ¦       default_destination.json
+¦   ¦               ¦       default_exit.json
+¦   ¦               ¦       default_exit_destination.json
+¦   ¦               ¦       default_name.json
+¦   ¦               ¦       exit_10.json
+¦   ¦               ¦       exit_11.json
+¦   ¦               ¦       exit_1_default.json
+¦   ¦               ¦       exit_1_destination.json
+¦   ¦               ¦       exit_1_exit.json
+¦   ¦               ¦       exit_1_exit_destination.json
+¦   ¦               ¦       exit_1_name.json
+¦   ¦               ¦       exit_2.json
+¦   ¦               ¦       exit_3.json
+¦   ¦               ¦       exit_4.json
+¦   ¦               ¦       exit_5.json
+¦   ¦               ¦       exit_6.json
+¦   ¦               ¦       exit_7.json
+¦   ¦               ¦       exit_8.json
+¦   ¦               ¦       exit_9.json
+¦   ¦               ¦       name_default.json
+¦   ¦               ¦       name_destination.json
+¦   ¦               ¦       name_exit.json
+¦   ¦               ¦       name_exit_default.json
+¦   ¦               ¦       name_exit_destination.json
+¦   ¦               ¦       name_exit_exit.json
+¦   ¦               ¦       name_exit_exit_destination.json
+¦   ¦               ¦       name_exit_name.json
+¦   ¦               ¦       name_name.json
+¦   ¦               ¦       
+¦   ¦               +---roundabout
+¦   ¦               ¦       default_default.json
+¦   ¦               ¦       default_destination.json
+¦   ¦               ¦       default_exit.json
+¦   ¦               ¦       default_exit_destination.json
+¦   ¦               ¦       default_name.json
+¦   ¦               ¦       exit_default.json
+¦   ¦               ¦       exit_destination.json
+¦   ¦               ¦       exit_exit.json
+¦   ¦               ¦       exit_exit_destination.json
+¦   ¦               ¦       exit_name.json
+¦   ¦               ¦       
+¦   ¦               +---roundabout_turn
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---turn
+¦   ¦               ¦       left_default.json
+¦   ¦               ¦       left_destination.json
+¦   ¦               ¦       left_exit.json
+¦   ¦               ¦       left_exit_destination.json
+¦   ¦               ¦       left_name.json
+¦   ¦               ¦       right_default.json
+¦   ¦               ¦       right_destination.json
+¦   ¦               ¦       right_exit.json
+¦   ¦               ¦       right_exit_destination.json
+¦   ¦               ¦       right_name.json
+¦   ¦               ¦       sharp_left_default.json
+¦   ¦               ¦       sharp_left_destination.json
+¦   ¦               ¦       sharp_left_exit.json
+¦   ¦               ¦       sharp_left_exit_destination.json
+¦   ¦               ¦       sharp_left_name.json
+¦   ¦               ¦       sharp_right_default.json
+¦   ¦               ¦       sharp_right_destination.json
+¦   ¦               ¦       sharp_right_exit.json
+¦   ¦               ¦       sharp_right_exit_destination.json
+¦   ¦               ¦       sharp_right_name.json
+¦   ¦               ¦       slight_left_default.json
+¦   ¦               ¦       slight_left_destination.json
+¦   ¦               ¦       slight_left_exit.json
+¦   ¦               ¦       slight_left_exit_destination.json
+¦   ¦               ¦       slight_left_name.json
+¦   ¦               ¦       slight_right_default.json
+¦   ¦               ¦       slight_right_destination.json
+¦   ¦               ¦       slight_right_exit.json
+¦   ¦               ¦       slight_right_exit_destination.json
+¦   ¦               ¦       slight_right_name.json
+¦   ¦               ¦       straight_default.json
+¦   ¦               ¦       straight_destination.json
+¦   ¦               ¦       straight_exit.json
+¦   ¦               ¦       straight_exit_destination.json
+¦   ¦               ¦       straight_name.json
+¦   ¦               ¦       uturn_default.json
+¦   ¦               ¦       uturn_destination.json
+¦   ¦               ¦       uturn_exit.json
+¦   ¦               ¦       uturn_exit_destination.json
+¦   ¦               ¦       uturn_name.json
+¦   ¦               ¦       
+¦   ¦               +---use_lane
+¦   ¦                       o.json
+¦   ¦                       ooo.json
+¦   ¦                       oooxxo.json
+¦   ¦                       oox.json
+¦   ¦                       ooxx.json
+¦   ¦                       oxo.json
+¦   ¦                       xoo.json
+¦   ¦                       xox.json
+¦   ¦                       xxoo.json
+¦   ¦                       xxooxx.json
+¦   ¦                       xxoxo.json
+¦   ¦                       
+¦   +---path-is-absolute
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---periscopic
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       index.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           index.d.ts
+¦   ¦           
+¦   +---picocolors
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       picocolors.browser.js
+¦   ¦       picocolors.d.ts
+¦   ¦       picocolors.js
+¦   ¦       README.md
+¦   ¦       types.ts
+¦   ¦       
+¦   +---picomatch
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           constants.js
+¦   ¦           parse.js
+¦   ¦           picomatch.js
+¦   ¦           scan.js
+¦   ¦           utils.js
+¦   ¦           
+¦   +---postcss
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           at-rule.d.ts
+¦   ¦           at-rule.js
+¦   ¦           comment.d.ts
+¦   ¦           comment.js
+¦   ¦           container.d.ts
+¦   ¦           container.js
+¦   ¦           css-syntax-error.d.ts
+¦   ¦           css-syntax-error.js
+¦   ¦           declaration.d.ts
+¦   ¦           declaration.js
+¦   ¦           document.d.ts
+¦   ¦           document.js
+¦   ¦           fromJSON.d.ts
+¦   ¦           fromJSON.js
+¦   ¦           input.d.ts
+¦   ¦           input.js
+¦   ¦           lazy-result.d.ts
+¦   ¦           lazy-result.js
+¦   ¦           list.d.ts
+¦   ¦           list.js
+¦   ¦           map-generator.js
+¦   ¦           no-work-result.d.ts
+¦   ¦           no-work-result.js
+¦   ¦           node.d.ts
+¦   ¦           node.js
+¦   ¦           parse.d.ts
+¦   ¦           parse.js
+¦   ¦           parser.js
+¦   ¦           postcss.d.mts
+¦   ¦           postcss.d.ts
+¦   ¦           postcss.js
+¦   ¦           postcss.mjs
+¦   ¦           previous-map.d.ts
+¦   ¦           previous-map.js
+¦   ¦           processor.d.ts
+¦   ¦           processor.js
+¦   ¦           result.d.ts
+¦   ¦           result.js
+¦   ¦           root.d.ts
+¦   ¦           root.js
+¦   ¦           rule.d.ts
+¦   ¦           rule.js
+¦   ¦           stringifier.d.ts
+¦   ¦           stringifier.js
+¦   ¦           stringify.d.ts
+¦   ¦           stringify.js
+¦   ¦           symbols.js
+¦   ¦           terminal-highlight.js
+¦   ¦           tokenize.js
+¦   ¦           warn-once.js
+¦   ¦           warning.d.ts
+¦   ¦           warning.js
+¦   ¦           
+¦   +---proxy-from-env
+¦   ¦       .eslintrc
+¦   ¦       .travis.yml
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       test.js
+¦   ¦       
+¦   +---readdirp
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---rimraf
+¦   ¦       bin.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       rimraf.js
+¦   ¦       
+¦   +---rollup
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦       ¦   getLogFilter.d.ts
+¦   ¦       ¦   getLogFilter.js
+¦   ¦       ¦   loadConfigFile.d.ts
+¦   ¦       ¦   loadConfigFile.js
+¦   ¦       ¦   native.js
+¦   ¦       ¦   parseAst.d.ts
+¦   ¦       ¦   parseAst.js
+¦   ¦       ¦   rollup.d.ts
+¦   ¦       ¦   rollup.js
+¦   ¦       ¦   
+¦   ¦       +---bin
+¦   ¦       ¦       rollup
+¦   ¦       ¦       
+¦   ¦       +---es
+¦   ¦       ¦   ¦   getLogFilter.js
+¦   ¦       ¦   ¦   package.json
+¦   ¦       ¦   ¦   parseAst.js
+¦   ¦       ¦   ¦   rollup.js
+¦   ¦       ¦   ¦   
+¦   ¦       ¦   +---shared
+¦   ¦       ¦           node-entry.js
+¦   ¦       ¦           parseAst.js
+¦   ¦       ¦           watch.js
+¦   ¦       ¦           
+¦   ¦       +---shared
+¦   ¦               fsevents-importer.js
+¦   ¦               index.js
+¦   ¦               loadConfigFile.js
+¦   ¦               parseAst.js
+¦   ¦               rollup.js
+¦   ¦               watch-cli.js
+¦   ¦               watch.js
+¦   ¦               
+¦   +---sade
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   license
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           index.js
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---sander
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦       sander.cjs.js
+¦   ¦   ¦       sander.cjs.js.map
+¦   ¦   ¦       sander.es.js
+¦   ¦   ¦       sander.es.js.map
+¦   ¦   ¦       sander.es6.js
+¦   ¦   ¦       sander.es6.js.map
+¦   ¦   ¦       
+¦   ¦   +---src
+¦   ¦       ¦   sander.js
+¦   ¦       ¦   
+¦   ¦       +---extraMethods
+¦   ¦       ¦       copydir.js
+¦   ¦       ¦       copyFile.js
+¦   ¦       ¦       lsr.js
+¦   ¦       ¦       rimraf.js
+¦   ¦       ¦       symlinkOrCopy.js
+¦   ¦       ¦       
+¦   ¦       +---methodMakers
+¦   ¦       ¦       fileDescriptorMethod.js
+¦   ¦       ¦       standardMethod.js
+¦   ¦       ¦       
+¦   ¦       +---specialMethods
+¦   ¦       ¦       createReadStream-createWriteStream.js
+¦   ¦       ¦       exists.js
+¦   ¦       ¦       link-rename.js
+¦   ¦       ¦       mkdir.js
+¦   ¦       ¦       open.js
+¦   ¦       ¦       symlink.js
+¦   ¦       ¦       writeFile-appendFile.js
+¦   ¦       ¦       
+¦   ¦       +---utils
+¦   ¦               resolvePath.js
+¦   ¦               resolvePathAndOptions.js
+¦   ¦               
+¦   +---set-cookie-parser
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           set-cookie.js
+¦   ¦           
+¦   +---sirv
+¦   ¦       build.js
+¦   ¦       build.mjs
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       sirv.d.ts
+¦   ¦       
+¦   +---sorcery
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       help.md
+¦   ¦   ¦       showHelp.js
+¦   ¦   ¦       sorcery
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦   ¦       sorcery.cjs.js
+¦   ¦   ¦       sorcery.es6.js
+¦   ¦   ¦       
+¦   ¦   +---src
+¦   ¦       ¦   Chain.js
+¦   ¦       ¦   index.js
+¦   ¦       ¦   Node.js
+¦   ¦       ¦   SourceMap.js
+¦   ¦       ¦   
+¦   ¦       +---utils
+¦   ¦               atob.js
+¦   ¦               btoa.js
+¦   ¦               getMap.js
+¦   ¦               getMapFromUrl.js
+¦   ¦               getSourceMappingUrl.js
+¦   ¦               slash.js
+¦   ¦               sourceMappingURL.js
+¦   ¦               
+¦   +---source-map-js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   source-map.d.ts
+¦   ¦   ¦   source-map.js
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦           array-set.js
+¦   ¦           base64-vlq.js
+¦   ¦           base64.js
+¦   ¦           binary-search.js
+¦   ¦           mapping-list.js
+¦   ¦           quick-sort.js
+¦   ¦           source-map-consumer.js
+¦   ¦           source-map-generator.js
+¦   ¦           source-node.js
+¦   ¦           util.js
+¦   ¦           
+¦   +---strip-indent
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       
+¦   +---svelte
+¦   ¦   ¦   action.d.ts
+¦   ¦   ¦   animate.d.ts
+¦   ¦   ¦   compiler.cjs
+¦   ¦   ¦   compiler.d.ts
+¦   ¦   ¦   easing.d.ts
+¦   ¦   ¦   elements.d.ts
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   motion.d.ts
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   store.d.ts
+¦   ¦   ¦   svelte-html.d.ts
+¦   ¦   ¦   transition.d.ts
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦   ¦   .eslintrc.json
+¦   ¦   ¦   ¦   
+¦   ¦   ¦   +---compiler
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   interfaces.d.ts
+¦   ¦   ¦   ¦   ¦   public.d.ts
+¦   ¦   ¦   ¦   ¦   Stats.js
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---compile
+¦   ¦   ¦   ¦   ¦   ¦   compiler_errors.js
+¦   ¦   ¦   ¦   ¦   ¦   compiler_warnings.js
+¦   ¦   ¦   ¦   ¦   ¦   Component.js
+¦   ¦   ¦   ¦   ¦   ¦   create_module.js
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   internal_exports.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---css
+¦   ¦   ¦   ¦   ¦   ¦       gather_possible_values.js
+¦   ¦   ¦   ¦   ¦   ¦       private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦       Selector.js
+¦   ¦   ¦   ¦   ¦   ¦       Stylesheet.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---nodes
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Action.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Animation.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Attribute.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   AwaitBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Binding.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Body.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   CatchBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Class.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Comment.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ConstTag.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   DebugTag.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Document.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   EachBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Element.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ElseBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   EventHandler.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Fragment.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Head.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   IfBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   InlineComponent.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   interfaces.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ¦   KeyBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Let.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   MustacheTag.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Options.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   PendingBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   RawMustacheTag.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Slot.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   SlotTemplate.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   StyleDirective.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Text.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   ThenBlock.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Title.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Transition.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Window.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---shared
+¦   ¦   ¦   ¦   ¦   ¦           AbstractBlock.js
+¦   ¦   ¦   ¦   ¦   ¦           Context.js
+¦   ¦   ¦   ¦   ¦   ¦           Expression.js
+¦   ¦   ¦   ¦   ¦   ¦           get_const_tags.js
+¦   ¦   ¦   ¦   ¦   ¦           is_contextual.js
+¦   ¦   ¦   ¦   ¦   ¦           map_children.js
+¦   ¦   ¦   ¦   ¦   ¦           Node.js
+¦   ¦   ¦   ¦   ¦   ¦           Tag.js
+¦   ¦   ¦   ¦   ¦   ¦           TemplateScope.js
+¦   ¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   ¦   +---render_dom
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Block.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   invalidate.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Renderer.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---wrappers
+¦   ¦   ¦   ¦   ¦   ¦       ¦   AwaitBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Body.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Comment.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   DebugTag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Document.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   EachBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Fragment.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Head.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   IfBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   KeyBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   MustacheTag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   RawMustacheTag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Slot.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   SlotTemplate.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Text.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Title.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Window.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦   ¦       +---Element
+¦   ¦   ¦   ¦   ¦   ¦       ¦       Attribute.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       Binding.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       EventHandler.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       fix_attribute_casing.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       handle_select_value_binding.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       SpreadAttribute.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       StyleAttribute.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦   ¦       +---InlineComponent
+¦   ¦   ¦   ¦   ¦   ¦       ¦       index.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦   ¦       +---shared
+¦   ¦   ¦   ¦   ¦   ¦               add_actions.js
+¦   ¦   ¦   ¦   ¦   ¦               add_const_tags.js
+¦   ¦   ¦   ¦   ¦   ¦               add_event_handlers.js
+¦   ¦   ¦   ¦   ¦   ¦               bind_this.js
+¦   ¦   ¦   ¦   ¦   ¦               create_debugging_comment.js
+¦   ¦   ¦   ¦   ¦   ¦               get_slot_definition.js
+¦   ¦   ¦   ¦   ¦   ¦               is_dynamic.js
+¦   ¦   ¦   ¦   ¦   ¦               is_head.js
+¦   ¦   ¦   ¦   ¦   ¦               mark_each_block_bindings.js
+¦   ¦   ¦   ¦   ¦   ¦               Tag.js
+¦   ¦   ¦   ¦   ¦   ¦               Wrapper.js
+¦   ¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   ¦   +---render_ssr
+¦   ¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ¦   Renderer.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---handlers
+¦   ¦   ¦   ¦   ¦   ¦       ¦   AwaitBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Comment.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   DebugTag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   EachBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Element.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Head.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   HtmlTag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   IfBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   InlineComponent.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   KeyBlock.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Slot.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   SlotTemplate.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Tag.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Text.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   Title.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦   ¦       +---shared
+¦   ¦   ¦   ¦   ¦   ¦       ¦       get_attribute_value.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       get_const_tags.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       get_slot_scope.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦       
+¦   ¦   ¦   ¦   ¦   ¦       +---utils
+¦   ¦   ¦   ¦   ¦   ¦               remove_whitespace_children.js
+¦   ¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦           a11y.js
+¦   ¦   ¦   ¦   ¦           add_to_set.js
+¦   ¦   ¦   ¦   ¦           check_enable_sourcemap.js
+¦   ¦   ¦   ¦   ¦           check_graph_for_cycles.js
+¦   ¦   ¦   ¦   ¦           collapse_template_literal.js
+¦   ¦   ¦   ¦   ¦           compare_node.js
+¦   ¦   ¦   ¦   ¦           contenteditable.js
+¦   ¦   ¦   ¦   ¦           flatten_reference.js
+¦   ¦   ¦   ¦   ¦           get_name_from_filename.js
+¦   ¦   ¦   ¦   ¦           get_object.js
+¦   ¦   ¦   ¦   ¦           get_slot_data.js
+¦   ¦   ¦   ¦   ¦           hash.js
+¦   ¦   ¦   ¦   ¦           is_used_as_reference.js
+¦   ¦   ¦   ¦   ¦           nodes_to_template_literal.js
+¦   ¦   ¦   ¦   ¦           replace_object.js
+¦   ¦   ¦   ¦   ¦           reserved_keywords.js
+¦   ¦   ¦   ¦   ¦           scope.js
+¦   ¦   ¦   ¦   ¦           stringify.js
+¦   ¦   ¦   ¦   ¦           string_to_member_expression.js
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---parse
+¦   ¦   ¦   ¦   ¦   ¦   acorn-types.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   acorn.js
+¦   ¦   ¦   ¦   ¦   ¦   errors.js
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---read
+¦   ¦   ¦   ¦   ¦   ¦   ¦   context.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   expression.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   script.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   style.js
+¦   ¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   ¦   +---css-tree-cq
+¦   ¦   ¦   ¦   ¦   ¦       ¦   css_tree_parse.js
+¦   ¦   ¦   ¦   ¦   ¦       ¦   
+¦   ¦   ¦   ¦   ¦   ¦       +---node
+¦   ¦   ¦   ¦   ¦   ¦               comparison.js
+¦   ¦   ¦   ¦   ¦   ¦               container_feature_style.js
+¦   ¦   ¦   ¦   ¦   ¦               container_query.js
+¦   ¦   ¦   ¦   ¦   ¦               index.js
+¦   ¦   ¦   ¦   ¦   ¦               lookahead_is_range.js
+¦   ¦   ¦   ¦   ¦   ¦               media_query.js
+¦   ¦   ¦   ¦   ¦   ¦               query_css_function.js
+¦   ¦   ¦   ¦   ¦   ¦               query_feature.js
+¦   ¦   ¦   ¦   ¦   ¦               query_feature_range.js
+¦   ¦   ¦   ¦   ¦   ¦               
+¦   ¦   ¦   ¦   ¦   +---state
+¦   ¦   ¦   ¦   ¦   ¦       fragment.js
+¦   ¦   ¦   ¦   ¦   ¦       mustache.js
+¦   ¦   ¦   ¦   ¦   ¦       tag.js
+¦   ¦   ¦   ¦   ¦   ¦       text.js
+¦   ¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦   ¦           bracket.js
+¦   ¦   ¦   ¦   ¦           entities.js
+¦   ¦   ¦   ¦   ¦           html.js
+¦   ¦   ¦   ¦   ¦           node.js
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---preprocess
+¦   ¦   ¦   ¦   ¦       decode_sourcemap.js
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       private.d.ts
+¦   ¦   ¦   ¦   ¦       public.d.ts
+¦   ¦   ¦   ¦   ¦       replace_in_code.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---utils
+¦   ¦   ¦   ¦           clone.js
+¦   ¦   ¦   ¦           error.js
+¦   ¦   ¦   ¦           extract_svelte_ignore.js
+¦   ¦   ¦   ¦           flatten.js
+¦   ¦   ¦   ¦           full_char_code_at.js
+¦   ¦   ¦   ¦           fuzzymatch.js
+¦   ¦   ¦   ¦           get_code_frame.js
+¦   ¦   ¦   ¦           globals.js
+¦   ¦   ¦   ¦           link.js
+¦   ¦   ¦   ¦           list.js
+¦   ¦   ¦   ¦           mapped_code.js
+¦   ¦   ¦   ¦           names.js
+¦   ¦   ¦   ¦           namespaces.js
+¦   ¦   ¦   ¦           nodes_match.js
+¦   ¦   ¦   ¦           patterns.js
+¦   ¦   ¦   ¦           push_array.js
+¦   ¦   ¦   ¦           trim.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---runtime
+¦   ¦   ¦   ¦   ¦   ambient.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   public.d.ts
+¦   ¦   ¦   ¦   ¦   ssr.js
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---action
+¦   ¦   ¦   ¦   ¦       public.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---animate
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       public.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---easing
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---internal
+¦   ¦   ¦   ¦   ¦   ¦   animations.js
+¦   ¦   ¦   ¦   ¦   ¦   await_block.js
+¦   ¦   ¦   ¦   ¦   ¦   Component.js
+¦   ¦   ¦   ¦   ¦   ¦   dev.js
+¦   ¦   ¦   ¦   ¦   ¦   dom.js
+¦   ¦   ¦   ¦   ¦   ¦   each.js
+¦   ¦   ¦   ¦   ¦   ¦   environment.js
+¦   ¦   ¦   ¦   ¦   ¦   globals.js
+¦   ¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   ¦   lifecycle.js
+¦   ¦   ¦   ¦   ¦   ¦   loop.js
+¦   ¦   ¦   ¦   ¦   ¦   private.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   public.d.ts
+¦   ¦   ¦   ¦   ¦   ¦   ResizeObserverSingleton.js
+¦   ¦   ¦   ¦   ¦   ¦   scheduler.js
+¦   ¦   ¦   ¦   ¦   ¦   spread.js
+¦   ¦   ¦   ¦   ¦   ¦   ssr.js
+¦   ¦   ¦   ¦   ¦   ¦   style_manager.js
+¦   ¦   ¦   ¦   ¦   ¦   transitions.js
+¦   ¦   ¦   ¦   ¦   ¦   utils.js
+¦   ¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   ¦   +---disclose-version
+¦   ¦   ¦   ¦   ¦           index.js
+¦   ¦   ¦   ¦   ¦           
+¦   ¦   ¦   ¦   +---motion
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       private.d.ts
+¦   ¦   ¦   ¦   ¦       public.d.ts
+¦   ¦   ¦   ¦   ¦       spring.js
+¦   ¦   ¦   ¦   ¦       tweened.js
+¦   ¦   ¦   ¦   ¦       utils.js
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---store
+¦   ¦   ¦   ¦   ¦       index.js
+¦   ¦   ¦   ¦   ¦       private.d.ts
+¦   ¦   ¦   ¦   ¦       public.d.ts
+¦   ¦   ¦   ¦   ¦       
+¦   ¦   ¦   ¦   +---transition
+¦   ¦   ¦   ¦           index.js
+¦   ¦   ¦   ¦           public.d.ts
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---shared
+¦   ¦   ¦       ¦   boolean_attributes.js
+¦   ¦   ¦       ¦   version.js
+¦   ¦   ¦       ¦   
+¦   ¦   ¦       +---utils
+¦   ¦   ¦               names.js
+¦   ¦   ¦               
+¦   ¦   +---types
+¦   ¦       ¦   index.d.ts
+¦   ¦       ¦   index.d.ts.map
+¦   ¦       ¦   
+¦   ¦       +---compiler
+¦   ¦               interfaces.d.ts
+¦   ¦               preprocess.d.ts
+¦   ¦               
+¦   +---svelte-check
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       svelte-check
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦       +---src
+¦   ¦               index.js
+¦   ¦               svelte-jsx-v4.d.ts
+¦   ¦               svelte-jsx.d.ts
+¦   ¦               svelte-native-jsx.d.ts
+¦   ¦               svelte-shims-v4.d.ts
+¦   ¦               svelte-shims.d.ts
+¦   ¦               
+¦   +---svelte-hmr
+¦   ¦   ¦   index.js
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---lib
+¦   ¦   ¦       css-only.js
+¦   ¦   ¦       make-hot.js
+¦   ¦   ¦       
+¦   ¦   +---runtime
+¦   ¦       ¦   hot-api-esm.js
+¦   ¦       ¦   hot-api.js
+¦   ¦       ¦   index.js
+¦   ¦       ¦   overlay.js
+¦   ¦       ¦   proxy-adapter-dom.js
+¦   ¦       ¦   proxy.js
+¦   ¦       ¦   svelte-hooks.js
+¦   ¦       ¦   
+¦   ¦       +---svelte-native
+¦   ¦               patch-page-show-modal.js
+¦   ¦               proxy-adapter-native.js
+¦   ¦               
+¦   +---svelte-preprocess
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦       ¦   autoProcess.d.ts
+¦   ¦       ¦   autoProcess.d.ts.map
+¦   ¦       ¦   autoProcess.js
+¦   ¦       ¦   autoProcess.js.map
+¦   ¦       ¦   index.d.ts
+¦   ¦       ¦   index.d.ts.map
+¦   ¦       ¦   index.js
+¦   ¦       ¦   index.js.map
+¦   ¦       ¦   
+¦   ¦       +---modules
+¦   ¦       ¦       errors.d.ts
+¦   ¦       ¦       errors.d.ts.map
+¦   ¦       ¦       errors.js
+¦   ¦       ¦       errors.js.map
+¦   ¦       ¦       globalifySelector.d.ts
+¦   ¦       ¦       globalifySelector.d.ts.map
+¦   ¦       ¦       globalifySelector.js
+¦   ¦       ¦       globalifySelector.js.map
+¦   ¦       ¦       language.d.ts
+¦   ¦       ¦       language.d.ts.map
+¦   ¦       ¦       language.js
+¦   ¦       ¦       language.js.map
+¦   ¦       ¦       markup.d.ts
+¦   ¦       ¦       markup.d.ts.map
+¦   ¦       ¦       markup.js
+¦   ¦       ¦       markup.js.map
+¦   ¦       ¦       prepareContent.d.ts
+¦   ¦       ¦       prepareContent.d.ts.map
+¦   ¦       ¦       prepareContent.js
+¦   ¦       ¦       prepareContent.js.map
+¦   ¦       ¦       tagInfo.d.ts
+¦   ¦       ¦       tagInfo.d.ts.map
+¦   ¦       ¦       tagInfo.js
+¦   ¦       ¦       tagInfo.js.map
+¦   ¦       ¦       utils.d.ts
+¦   ¦       ¦       utils.d.ts.map
+¦   ¦       ¦       utils.js
+¦   ¦       ¦       utils.js.map
+¦   ¦       ¦       
+¦   ¦       +---processors
+¦   ¦       ¦       babel.d.ts
+¦   ¦       ¦       babel.d.ts.map
+¦   ¦       ¦       babel.js
+¦   ¦       ¦       babel.js.map
+¦   ¦       ¦       coffeescript.d.ts
+¦   ¦       ¦       coffeescript.d.ts.map
+¦   ¦       ¦       coffeescript.js
+¦   ¦       ¦       coffeescript.js.map
+¦   ¦       ¦       globalStyle.d.ts
+¦   ¦       ¦       globalStyle.d.ts.map
+¦   ¦       ¦       globalStyle.js
+¦   ¦       ¦       globalStyle.js.map
+¦   ¦       ¦       less.d.ts
+¦   ¦       ¦       less.d.ts.map
+¦   ¦       ¦       less.js
+¦   ¦       ¦       less.js.map
+¦   ¦       ¦       postcss.d.ts
+¦   ¦       ¦       postcss.d.ts.map
+¦   ¦       ¦       postcss.js
+¦   ¦       ¦       postcss.js.map
+¦   ¦       ¦       pug.d.ts
+¦   ¦       ¦       pug.d.ts.map
+¦   ¦       ¦       pug.js
+¦   ¦       ¦       pug.js.map
+¦   ¦       ¦       replace.d.ts
+¦   ¦       ¦       replace.d.ts.map
+¦   ¦       ¦       replace.js
+¦   ¦       ¦       replace.js.map
+¦   ¦       ¦       scss.d.ts
+¦   ¦       ¦       scss.d.ts.map
+¦   ¦       ¦       scss.js
+¦   ¦       ¦       scss.js.map
+¦   ¦       ¦       stylus.d.ts
+¦   ¦       ¦       stylus.d.ts.map
+¦   ¦       ¦       stylus.js
+¦   ¦       ¦       stylus.js.map
+¦   ¦       ¦       typescript.d.ts
+¦   ¦       ¦       typescript.d.ts.map
+¦   ¦       ¦       typescript.js
+¦   ¦       ¦       typescript.js.map
+¦   ¦       ¦       
+¦   ¦       +---transformers
+¦   ¦       ¦       babel.d.ts
+¦   ¦       ¦       babel.d.ts.map
+¦   ¦       ¦       babel.js
+¦   ¦       ¦       babel.js.map
+¦   ¦       ¦       coffeescript.d.ts
+¦   ¦       ¦       coffeescript.d.ts.map
+¦   ¦       ¦       coffeescript.js
+¦   ¦       ¦       coffeescript.js.map
+¦   ¦       ¦       globalStyle.d.ts
+¦   ¦       ¦       globalStyle.d.ts.map
+¦   ¦       ¦       globalStyle.js
+¦   ¦       ¦       globalStyle.js.map
+¦   ¦       ¦       less.d.ts
+¦   ¦       ¦       less.d.ts.map
+¦   ¦       ¦       less.js
+¦   ¦       ¦       less.js.map
+¦   ¦       ¦       postcss.d.ts
+¦   ¦       ¦       postcss.d.ts.map
+¦   ¦       ¦       postcss.js
+¦   ¦       ¦       postcss.js.map
+¦   ¦       ¦       pug.d.ts
+¦   ¦       ¦       pug.d.ts.map
+¦   ¦       ¦       pug.js
+¦   ¦       ¦       pug.js.map
+¦   ¦       ¦       replace.d.ts
+¦   ¦       ¦       replace.d.ts.map
+¦   ¦       ¦       replace.js
+¦   ¦       ¦       replace.js.map
+¦   ¦       ¦       scss.d.ts
+¦   ¦       ¦       scss.d.ts.map
+¦   ¦       ¦       scss.js
+¦   ¦       ¦       scss.js.map
+¦   ¦       ¦       stylus.d.ts
+¦   ¦       ¦       stylus.d.ts.map
+¦   ¦       ¦       stylus.js
+¦   ¦       ¦       stylus.js.map
+¦   ¦       ¦       typescript.d.ts
+¦   ¦       ¦       typescript.d.ts.map
+¦   ¦       ¦       typescript.js
+¦   ¦       ¦       typescript.js.map
+¦   ¦       ¦       
+¦   ¦       +---types
+¦   ¦               index.d.ts
+¦   ¦               index.d.ts.map
+¦   ¦               index.js
+¦   ¦               index.js.map
+¦   ¦               options.d.ts
+¦   ¦               options.d.ts.map
+¦   ¦               options.js
+¦   ¦               options.js.map
+¦   ¦               
+¦   +---svelte-routing
+¦   ¦   ¦   .gitattributes
+¦   ¦   ¦   .prettierrc
+¦   ¦   ¦   CHANGELOG.md
+¦   ¦   ¦   CODE_OF_CONDUCT.md
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦   ¦       actions.js
+¦   ¦   ¦       contexts.js
+¦   ¦   ¦       history.js
+¦   ¦   ¦       index.js
+¦   ¦   ¦       Link.svelte
+¦   ¦   ¦       Route.svelte
+¦   ¦   ¦       Router.svelte
+¦   ¦   ¦       utils.js
+¦   ¦   ¦       
+¦   ¦   +---types
+¦   ¦           actions.d.ts
+¦   ¦           ambient.d.ts
+¦   ¦           contexts.d.ts
+¦   ¦           functions.d.ts
+¦   ¦           index.d.ts
+¦   ¦           Link.d.ts
+¦   ¦           Route.d.ts
+¦   ¦           Router.d.ts
+¦   ¦           RouterContext.d.ts
+¦   ¦           
+¦   +---tiny-glob
+¦   ¦       index.d.ts
+¦   ¦       index.js
+¦   ¦       license
+¦   ¦       package.json
+¦   ¦       readme.md
+¦   ¦       sync.d.ts
+¦   ¦       sync.js
+¦   ¦       
+¦   +---to-regex-range
+¦   ¦       index.js
+¦   ¦       LICENSE
+¦   ¦       package.json
+¦   ¦       README.md
+¦   ¦       
+¦   +---totalist
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   license
+¦   ¦   ¦   package.json
+¦   ¦   ¦   readme.md
+¦   ¦   ¦   
+¦   ¦   +---dist
+¦   ¦   ¦       index.js
+¦   ¦   ¦       index.mjs
+¦   ¦   ¦       
+¦   ¦   +---sync
+¦   ¦           index.d.ts
+¦   ¦           index.js
+¦   ¦           index.mjs
+¦   ¦           
+¦   +---typescript
+¦   ¦   ¦   LICENSE.txt
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   SECURITY.md
+¦   ¦   ¦   ThirdPartyNoticeText.txt
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       tsc
+¦   ¦   ¦       tsserver
+¦   ¦   ¦       
+¦   ¦   +---lib
+¦   ¦       ¦   cancellationToken.js
+¦   ¦       ¦   lib.d.ts
+¦   ¦       ¦   lib.decorators.d.ts
+¦   ¦       ¦   lib.decorators.legacy.d.ts
+¦   ¦       ¦   lib.dom.asynciterable.d.ts
+¦   ¦       ¦   lib.dom.d.ts
+¦   ¦       ¦   lib.dom.iterable.d.ts
+¦   ¦       ¦   lib.es2015.collection.d.ts
+¦   ¦       ¦   lib.es2015.core.d.ts
+¦   ¦       ¦   lib.es2015.d.ts
+¦   ¦       ¦   lib.es2015.generator.d.ts
+¦   ¦       ¦   lib.es2015.iterable.d.ts
+¦   ¦       ¦   lib.es2015.promise.d.ts
+¦   ¦       ¦   lib.es2015.proxy.d.ts
+¦   ¦       ¦   lib.es2015.reflect.d.ts
+¦   ¦       ¦   lib.es2015.symbol.d.ts
+¦   ¦       ¦   lib.es2015.symbol.wellknown.d.ts
+¦   ¦       ¦   lib.es2016.array.include.d.ts
+¦   ¦       ¦   lib.es2016.d.ts
+¦   ¦       ¦   lib.es2016.full.d.ts
+¦   ¦       ¦   lib.es2016.intl.d.ts
+¦   ¦       ¦   lib.es2017.d.ts
+¦   ¦       ¦   lib.es2017.date.d.ts
+¦   ¦       ¦   lib.es2017.full.d.ts
+¦   ¦       ¦   lib.es2017.intl.d.ts
+¦   ¦       ¦   lib.es2017.object.d.ts
+¦   ¦       ¦   lib.es2017.sharedmemory.d.ts
+¦   ¦       ¦   lib.es2017.string.d.ts
+¦   ¦       ¦   lib.es2017.typedarrays.d.ts
+¦   ¦       ¦   lib.es2018.asyncgenerator.d.ts
+¦   ¦       ¦   lib.es2018.asynciterable.d.ts
+¦   ¦       ¦   lib.es2018.d.ts
+¦   ¦       ¦   lib.es2018.full.d.ts
+¦   ¦       ¦   lib.es2018.intl.d.ts
+¦   ¦       ¦   lib.es2018.promise.d.ts
+¦   ¦       ¦   lib.es2018.regexp.d.ts
+¦   ¦       ¦   lib.es2019.array.d.ts
+¦   ¦       ¦   lib.es2019.d.ts
+¦   ¦       ¦   lib.es2019.full.d.ts
+¦   ¦       ¦   lib.es2019.intl.d.ts
+¦   ¦       ¦   lib.es2019.object.d.ts
+¦   ¦       ¦   lib.es2019.string.d.ts
+¦   ¦       ¦   lib.es2019.symbol.d.ts
+¦   ¦       ¦   lib.es2020.bigint.d.ts
+¦   ¦       ¦   lib.es2020.d.ts
+¦   ¦       ¦   lib.es2020.date.d.ts
+¦   ¦       ¦   lib.es2020.full.d.ts
+¦   ¦       ¦   lib.es2020.intl.d.ts
+¦   ¦       ¦   lib.es2020.number.d.ts
+¦   ¦       ¦   lib.es2020.promise.d.ts
+¦   ¦       ¦   lib.es2020.sharedmemory.d.ts
+¦   ¦       ¦   lib.es2020.string.d.ts
+¦   ¦       ¦   lib.es2020.symbol.wellknown.d.ts
+¦   ¦       ¦   lib.es2021.d.ts
+¦   ¦       ¦   lib.es2021.full.d.ts
+¦   ¦       ¦   lib.es2021.intl.d.ts
+¦   ¦       ¦   lib.es2021.promise.d.ts
+¦   ¦       ¦   lib.es2021.string.d.ts
+¦   ¦       ¦   lib.es2021.weakref.d.ts
+¦   ¦       ¦   lib.es2022.array.d.ts
+¦   ¦       ¦   lib.es2022.d.ts
+¦   ¦       ¦   lib.es2022.error.d.ts
+¦   ¦       ¦   lib.es2022.full.d.ts
+¦   ¦       ¦   lib.es2022.intl.d.ts
+¦   ¦       ¦   lib.es2022.object.d.ts
+¦   ¦       ¦   lib.es2022.regexp.d.ts
+¦   ¦       ¦   lib.es2022.sharedmemory.d.ts
+¦   ¦       ¦   lib.es2022.string.d.ts
+¦   ¦       ¦   lib.es2023.array.d.ts
+¦   ¦       ¦   lib.es2023.collection.d.ts
+¦   ¦       ¦   lib.es2023.d.ts
+¦   ¦       ¦   lib.es2023.full.d.ts
+¦   ¦       ¦   lib.es2023.intl.d.ts
+¦   ¦       ¦   lib.es5.d.ts
+¦   ¦       ¦   lib.es6.d.ts
+¦   ¦       ¦   lib.esnext.array.d.ts
+¦   ¦       ¦   lib.esnext.collection.d.ts
+¦   ¦       ¦   lib.esnext.d.ts
+¦   ¦       ¦   lib.esnext.decorators.d.ts
+¦   ¦       ¦   lib.esnext.disposable.d.ts
+¦   ¦       ¦   lib.esnext.full.d.ts
+¦   ¦       ¦   lib.esnext.intl.d.ts
+¦   ¦       ¦   lib.esnext.object.d.ts
+¦   ¦       ¦   lib.esnext.promise.d.ts
+¦   ¦       ¦   lib.esnext.regexp.d.ts
+¦   ¦       ¦   lib.esnext.string.d.ts
+¦   ¦       ¦   lib.scripthost.d.ts
+¦   ¦       ¦   lib.webworker.asynciterable.d.ts
+¦   ¦       ¦   lib.webworker.d.ts
+¦   ¦       ¦   lib.webworker.importscripts.d.ts
+¦   ¦       ¦   lib.webworker.iterable.d.ts
+¦   ¦       ¦   tsc.js
+¦   ¦       ¦   tsserver.js
+¦   ¦       ¦   tsserverlibrary.d.ts
+¦   ¦       ¦   tsserverlibrary.js
+¦   ¦       ¦   typescript.d.ts
+¦   ¦       ¦   typescript.js
+¦   ¦       ¦   typesMap.json
+¦   ¦       ¦   typingsInstaller.js
+¦   ¦       ¦   watchGuard.js
+¦   ¦       ¦   
+¦   ¦       +---cs
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---de
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---es
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---fr
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---it
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---ja
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---ko
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---pl
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---pt-br
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---ru
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---tr
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---zh-cn
+¦   ¦       ¦       diagnosticMessages.generated.json
+¦   ¦       ¦       
+¦   ¦       +---zh-tw
+¦   ¦               diagnosticMessages.generated.json
+¦   ¦               
+¦   +---vite
+¦   ¦   ¦   client.d.ts
+¦   ¦   ¦   index.cjs
+¦   ¦   ¦   index.d.cts
+¦   ¦   ¦   LICENSE.md
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---bin
+¦   ¦   ¦       openChrome.applescript
+¦   ¦   ¦       vite.js
+¦   ¦   ¦       
+¦   ¦   +---dist
+¦   ¦   ¦   +---client
+¦   ¦   ¦   ¦       client.mjs
+¦   ¦   ¦   ¦       env.mjs
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---node
+¦   ¦   ¦   ¦   ¦   cli.js
+¦   ¦   ¦   ¦   ¦   constants.js
+¦   ¦   ¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   ¦   ¦   index.js
+¦   ¦   ¦   ¦   ¦   runtime.d.ts
+¦   ¦   ¦   ¦   ¦   runtime.js
+¦   ¦   ¦   ¦   ¦   types.d-aGj9QkWt.d.ts
+¦   ¦   ¦   ¦   ¦   
+¦   ¦   ¦   ¦   +---chunks
+¦   ¦   ¦   ¦           dep-CjZz522d.js
+¦   ¦   ¦   ¦           dep-D-7KCb9p.js
+¦   ¦   ¦   ¦           dep-IQS-Za7F.js
+¦   ¦   ¦   ¦           dep-mCdpKltl.js
+¦   ¦   ¦   ¦           dep-VqAwxVIc.js
+¦   ¦   ¦   ¦           
+¦   ¦   ¦   +---node-cjs
+¦   ¦   ¦           publicUtils.cjs
+¦   ¦   ¦           
+¦   ¦   +---types
+¦   ¦           customEvent.d.ts
+¦   ¦           hmrPayload.d.ts
+¦   ¦           hot.d.ts
+¦   ¦           import-meta.d.ts
+¦   ¦           importGlob.d.ts
+¦   ¦           importMeta.d.ts
+¦   ¦           metadata.d.ts
+¦   ¦           package.json
+¦   ¦           
+¦   +---vitefu
+¦   ¦   ¦   index.d.ts
+¦   ¦   ¦   LICENSE
+¦   ¦   ¦   package.json
+¦   ¦   ¦   README.md
+¦   ¦   ¦   
+¦   ¦   +---src
+¦   ¦           index.cjs
+¦   ¦           index.js
+¦   ¦           sync.cjs
+¦   ¦           
+¦   +---wrappy
+¦           LICENSE
+¦           package.json
+¦           README.md
+¦           wrappy.js
+¦           
++---src
+¦   ¦   app.css
+¦   ¦   app.d.ts
+¦   ¦   app.html
+¦   ¦   
+¦   +---lib
+¦   ¦   +---images
+¦   ¦           github.svg
+¦   ¦           svelte-logo.svg
+¦   ¦           svelte-welcome.png
+¦   ¦           svelte-welcome.webp
+¦   ¦           
+¦   +---routes
+¦       ¦   +layout.svelte
+¦       ¦   +page.js
+¦       ¦   +page.svelte
+¦       ¦   Buscador.svelte
+¦       ¦   Footer.svelte
+¦       ¦   Header.svelte
+¦       ¦   Map.svelte
+¦       ¦   Tablon.svelte
+¦       ¦   
+¦       +---about
+¦       ¦       +page.js
+¦       ¦       +page.svelte
+¦       ¦       
+¦       +---sverdle
+¦       ¦       +page.js
+¦       ¦       +page.svelte
+¦       ¦       iglesia.png
+¦       ¦       
+¦       +---tablon
+¦               +layout.svelte
+¦               +page.js
+¦               
++---static
+        favicon.png
+        robots.txt
+        
