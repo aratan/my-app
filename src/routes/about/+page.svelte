@@ -19,6 +19,7 @@
 		const data = response.data;
 		console.log("Datos recibidos de la API:", data);
   
+		// Verifica si los datos son un array y contienen elementos
 		if (Array.isArray(data) && data.length > 0) {
 		  anuncios = data;
 		  console.log("Anuncios:", anuncios);
@@ -41,17 +42,17 @@
   
 	<div class="row">
 	  {#each anuncios as anuncio}
-		<!-- Filtrar tarjetas cuyo título no sea "Oferta" -->
-		{#if anuncio.content?.title.toLowerCase() !== "oferta"}
+		<!-- Filtrar tarjetas cuyo título no sea "Notificación" -->
+		{#if anuncio.content?.title.toLowerCase() === "notificacion"}
 		  <div class="col-md-4 mb-4">
 			<div class="card">
 			  <div class="card-header">
 				<strong>{anuncio.content?.title || "Sin título"}</strong>
 			  </div>
 			  <div class="card-body">
-				<!-- Mostrar imagen si el 'photo' no coincide con 'your_photo_url' -->
+				<!-- Mostrar icono si el 'photo' coincide con 'your_photo_url' -->
 				{#if anuncio.from?.photo !== "your_photo_url"}
-				  <img src={anuncio.from.photo} alt="" width="30" height="30" />
+				  <img src="https://images.vexels.com/media/users/3/179548/isolated/preview/dccacfabeb7f8afe6fb3da7da10e6a21-templo-catedral-iglesia-detallada-silueta-by-vexels.png" alt="" width="30" height="30" />
 				{/if}
   
 				<!-- Mostrar el nombre de usuario si es diferente de 'your_username' -->
