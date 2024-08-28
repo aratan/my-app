@@ -2,6 +2,8 @@
   import { onMount } from "svelte";
   import axios from "axios";
   import FormularioTablon from "../FormularioTablon.svelte";
+  import MiniMap from '../MiniMap.svelte';
+ 
   
   let tablones = [];
   let loading = true;
@@ -51,6 +53,7 @@
 <div class="container mt-4">
   <h1>Tablones</h1>
   <p>Bienvenido a la página de los tablones.</p>
+  
   <FormularioTablon />
   
   {#if loading}
@@ -72,8 +75,7 @@
                   <p class="card-text">{message.content.message}</p>
                   <small class="text-muted">Enviado por {message.from.username} el {new Date(message.timestamp).toLocaleString()}</small>
                   
-                  <!-- Botón de Like -->
-                  <button class="btn btn-primary" on:click={() => addLike(tablon.id)}>Like</button>
+                 
                 </div>
                 <hr />
               {/each}
@@ -82,7 +84,12 @@
             <div class="card-footer">
               <!-- Botón de Eliminar Tablón -->
               <button class="btn btn-danger" on:click={() => deleteTablon(tablonIndex)}>Eliminar Tablón</button>
-              <p>Likes: {tablon.likes}</p>
+              <button class="btn btn-primary" on:click={() => addLike(tablon.id)}>Voy</button>
+              <p>Apuntados: {tablon.likes}</p>
+              
+         
+              <MiniMap lat={40.142} lng={-2.693} />
+
             </div>
           </div>
         </div>
