@@ -36,6 +36,7 @@
             <h5 class="card-title">{anuncio.content.title || "Sin título"}</h5>
             <p class="card-text">{anuncio.content.message}</p>
             <button class="btn btn-danger" on:click={() => deleteAnuncio(index)}>Eliminar</button>
+            <p>Likes: {anuncio.content.likes > 0 ? anuncio.content.likes : 0}</p>
           </div>
         </div>
       </div>

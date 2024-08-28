@@ -25,10 +25,10 @@
 				<a href="/about">Anuncios</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
-				<a href="/sverdle">Tabl</a>
+				<a href="/sverdle">Mensajes</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/tablon') ? 'page' : undefined}>
-				<a href="/tablon">Tablon</a>
+				<a href="/tablon">Grupos</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">

@@ -68,6 +68,7 @@
 				<!-- Mostrar mensaje si existe -->
 				{#if anuncio.content?.message}
 				  <p style="color: blue;">{anuncio.content.message}</p>
+				  <p>Likes: {anuncio.content.likes > 0 ? anuncio.content.likes : 0}</p>
 				{/if}
 			  </div>
 			</div>
